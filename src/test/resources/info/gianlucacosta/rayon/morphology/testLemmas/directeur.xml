@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>directeur</title>
+        <pageId>8114</pageId>
+        <meta>
+            <reference>DAF8</reference>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">di.ʁɛk.tœʁ</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml>du latin <foreignWord lang="la" sense="conducteur, guide">director</foreignWord>.
+                    </xml>
+                    <txt>du latin director (conducteur, guide).</txt>
+                </etym>
+            </etymology>
+            <pos type="adjectif" lemma="1" locution="0" gender="m" number="s">
+                <pronunciations>
+                    <pron>di.ʁɛk.tœʁ</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="directeur" gracePOS="Afpms" prons="di.ʁɛk.tœʁ"/>
+                    <inflection form="directeurs" gracePOS="Afpmp" prons="di.ʁɛk.tœʁ"/>
+                    <inflection form="directrice" gracePOS="Afpfs" prons="di.ʁɛk.tʁis"/>
+                    <inflection form="directrices" gracePOS="Afpfp" prons="di.ʁɛk.tʁis"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Qui dirige.</xml>
+                            <txt>Qui dirige.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Une ligne <b>directrice</b>.
+                                </i>
+                            </xml>
+                            <txt>Une ligne directrice.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Comité <b>directeur</b>.
+                                </i>
+                            </xml>
+                            <txt>Comité directeur.</txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">dirigeant</item>
+                    <item type="synonym">principal</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">schéma directeur</item>
+                    <item type="derivative">taux directeur</item>
+                </subsection>
+                <translations>
+                    <trans lang="de">leitend</trans>
+                    <trans lang="en">leading</trans>
+                    <trans lang="en">managing</trans>
+                    <trans lang="el">διευθύνων</trans>
+                </translations>
+            </pos>
+            <pos type="nom" lemma="1" locution="0" gender="m" number="s">
+                <pronunciations>
+                    <pron>di.ʁɛk.tœʁ</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="directeur" gracePOS="Ncms" prons="di.ʁɛk.tœʁ"/>
+                    <inflection form="directeurs" gracePOS="Ncmp" prons="di.ʁɛk.tœʁ"/>
+                    <equivFem form="directrice" gracePOS="Ncfs" prons="di.ʁɛk.tʁis"/>
+                    <equivFem form="directrices" gracePOS="Ncfp" prons="di.ʁɛk.tʁis"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Personne qui <innerLink ref="diriger">dirige</innerLink> un <innerLink
+                                    ref="établissement">
+                                établissement</innerLink>, un <innerLink ref="service">service</innerLink>, etc.
+                            </xml>
+                            <txt>Personne qui dirige un établissement, un service, etc.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Je suis le <b>directeur</b> de ces messieurs, le <b>directeur</b> que l'on salue très
+                                    bas
+                                    et qui s'offre le délicat plaisir de faire attendre dans l'antichambre nombre de
+                                    solliciteurs.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>Je suis le directeur de ces messieurs, le directeur que l'on salue très bas et qui
+                                s'offre
+                                le délicat plaisir de faire attendre dans l'antichambre nombre de solliciteurs. }}
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Fernando de Noronha étant le bagne brésilien de l'État de Pernambuco, nous obtenons
+                                    du <b>
+                                        directeur
+                                    </b> du pénitencier que deux cents forçats
+                                    soient mis à notre disposition.
+                                </i>
+                            </xml>
+                            <txt>Fernando de Noronha étant le bagne brésilien de l'État de Pernambuco, nous obtenons du
+                                directeur du pénitencier que deux cents forçats soient mis à notre disposition.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml>Personne qui <innerLink ref="préside">préside</innerLink> les <innerLink ref="séance">
+                                séance</innerLink>s.
+                            </xml>
+                            <txt>Personne qui préside les séances.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Le <b>directeur</b> de l'Académie française.
+                                </i>
+                            </xml>
+                            <txt>Le directeur de l'Académie française.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml>Membre d'un <innerLink ref="directoire">directoire</innerLink>.
+                            </xml>
+                            <txt>Membre d'un directoire.</txt>
+                        </gloss>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                                <label type="domain" value="histoire"/>
+                                <label type="diatopic" value="France"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="chacun">Chacun</innerLink>
+                                des cinq <innerLink ref="membre">membre</innerLink>s du <innerLink ref="Directoire">
+                                Directoire
+                            </innerLink> entre 1795 et 1799.
+                            </xml>
+                            <txt>Chacun des cinq membres du Directoire entre 1795 et 1799.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>La situation de la République était peu brillante au moment où s'installa le
+                                    Directoire.
+                                    […]. La tâche des cinq <b>directeurs</b>, Barras, Carnot, Rewbell, Letourneur, et
+                                    Laréveillère-Lépeau, était difficile à remplir.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>La situation de la République était peu brillante au moment où s'installa le
+                                Directoire.
+                                […]. La tâche des cinq directeurs, Barras, Carnot, Rewbell, Letourneur, et
+                                Laréveillère-Lépeau, était difficile à remplir. }}
+                            </txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">dirigeant</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">DAF</item>
+                    <item type="derivative">directeur administratif et financier</item>
+                    <item type="derivative">directeur artistique</item>
+                    <item type="derivative">directeur de cabinet</item>
+                    <item type="derivative">directeur de conscience</item>
+                    <item type="derivative">directeur de la mercatique</item>
+                    <item type="derivative">directeur de salle</item>
+                    <item type="derivative">directeur des ressources humaines</item>
+                    <item type="derivative">directeur financier</item>
+                    <item type="derivative">directeur marketing</item>
+                    <item type="derivative">directeur sportif</item>
+                    <item type="derivative">PDG</item>
+                    <item type="derivative">président-directeur général</item>
+                    <item type="derivative">sous-directeur</item>
+                    <item type="related">directif</item>
+                    <item type="related">direction</item>
+                    <item type="related">directionnel</item>
+                </subsection>
+                <translations>
+                    <trans lang="af">administrateur</trans>
+                    <trans lang="af">bestuurder</trans>
+                    <trans lang="af">bedryfsleier</trans>
+                    <trans lang="af">bestuurder</trans>
+                    <trans lang="af">direkteur</trans>
+                    <trans lang="sq">administronjës</trans>
+                    <trans lang="de">Direktor</trans>
+                    <trans lang="de">Leiter</trans>
+                    <trans lang="de">Vorsteher</trans>
+                    <trans lang="de">Administrator</trans>
+                    <trans lang="de">Verwalter</trans>
+                    <trans lang="en">manager</trans>
+                    <trans lang="en">administrator</trans>
+                    <trans lang="en">director</trans>
+                    <trans lang="en">advisor</trans>
+                    <trans lang="ca">gerent</trans>
+                    <trans lang="ca">director</trans>
+                    <trans lang="co">dirittore</trans>
+                    <trans lang="da">bestyrer</trans>
+                    <trans lang="da">direktør</trans>
+                    <trans lang="es">administrador</trans>
+                    <trans lang="es">director</trans>
+                    <trans lang="eo">administranto</trans>
+                    <trans lang="eo">estro</trans>
+                    <trans lang="fo">stjóri</trans>
+                    <trans lang="fy">behearder</trans>
+                    <trans lang="fy">bestjoerder</trans>
+                    <trans lang="fy">direkteur</trans>
+                    <trans lang="el">διευθυντής</trans>
+                    <trans lang="hu">direktor</trans>
+                    <trans lang="hu">igazgató</trans>
+                    <trans lang="hu">menedzser</trans>
+                    <trans lang="io">direktanto</trans>
+                    <trans lang="it">direttore</trans>
+                    <trans lang="ja">管理者</trans>
+                    <trans lang="nl">administrateur</trans>
+                    <trans lang="nl">beheerder</trans>
+                    <trans lang="nl">bestuurder</trans>
+                    <trans lang="nl">zetbaas</trans>
+                    <trans lang="nl">bestuurder</trans>
+                    <trans lang="nl">directeur</trans>
+                    <trans lang="pap">direktor</trans>
+                    <trans lang="pl">dyrektor</trans>
+                    <trans lang="pt">diretor</trans>
+                    <trans lang="pt">director</trans>
+                    <trans lang="ro">director</trans>
+                    <trans lang="ru">директор</trans>
+                    <trans lang="srn">driktoro</trans>
+                    <trans lang="sv">administratör</trans>
+                    <trans lang="sv">förvaltare</trans>
+                    <trans lang="sv">direktör</trans>
+                    <trans lang="cs">ředitel</trans>
+                    <trans lang="zu">ilimeniyu</trans>
+                    <trans lang="zu">imeniyu</trans>
+                    <trans lang="de">Vorsitzender</trans>
+                    <trans lang="en">president</trans>
+                </translations>
+            </pos>
+        </text>
+    </article>
+</glawi>

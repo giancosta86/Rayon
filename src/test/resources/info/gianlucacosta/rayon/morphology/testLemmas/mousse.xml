@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>mousse</title>
+        <pageId>7930</pageId>
+        <meta>
+            <category>Mousses en français</category>
+            <category>Lexique en français de la navigation</category>
+            <category>Alcools en français</category>
+            <category>Noms multigenres en français</category>
+            <reference>TLFi</reference>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">mus</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml>provient probablement à la fois du francique
+                        <foreignWord lang="frk"/>
+                        mosa (issu du néerlandais
+                        <i>
+                            <innerLink ref="mos">mos</innerLink>
+                        </i>
+                        ) (« <b>mousse</b> », la plante, sens 1.1) latinisé en
+                        <i>
+                            <innerLink ref="mossa">mossa</innerLink>
+                        </i>
+                        , et du latin
+                        <i>
+                            <innerLink ref="mulsa">mulsa</innerLink>
+                        </i>
+                        (« <innerLink ref="hydromel">hydromel</innerLink> »), qui aurait été utilisé pour désigner la
+                        plante métaphoriquement.
+                    </xml>
+                    <txt>provient probablement à la fois du francique mosa (issu du néerlandais mos) (« mousse », la
+                        plante, sens 1.1) latinisé en mossa, et du latin mulsa (« hydromel »), qui aurait été utilisé
+                        pour désigner la plante métaphoriquement.
+                    </txt>
+                </etym>
+                <etym>
+                    <xml>emprunté soit à l'espagnol <foreignWord lang="es"
+                                                                 sense="garçonnet, jeune homme puis apprenti marin">mozo
+                    </foreignWord> soit au catalan <foreignWord lang="ca" sense="jeune homme puis apprenti marin">
+                        mosso</foreignWord>, lui-même emprunté à l'es
+                        <i>
+                            <innerLink ref="mozo">mozo</innerLink>
+                        </i>
+                        . le mot <i>mozo</i> vient du latin
+                        <i>
+                            <innerLink ref="muttiu">muttiu</innerLink>
+                        </i>
+                        (« <innerLink ref="émoussé">émoussé</innerLink> »), à cause du fait que l'on <innerLink
+                                ref="raser">rasait
+                        </innerLink> la <innerLink ref="tête">tête</innerLink> des garçonnets et des jeunes gens.
+                    </xml>
+                    <txt>emprunté soit à l'espagnol mozo (garçonnet, jeune homme puis apprenti marin) soit au catalan
+                        mosso (jeune homme puis apprenti marin), lui-même emprunté à l'es mozo. le mot mozo vient du
+                        latin muttiu (« émoussé »), à cause du fait que l'on rasait la tête des garçonnets et des jeunes
+                        gens.
+                    </txt>
+                </etym>
+                <etym>
+                    <xml>du gaulois
+                        <foreignWord lang="gaul"/>
+                        mudia (« excrément », « souillure ») soit du breton <i>mous</i> (« tas d'ordures
+                        »)&lt;ref&gt;<link url="http://www.cnrtl.fr/etymologie/mouscaille">cnrtl</link>&lt;/ref&gt;, ou
+                        <i>
+                            <innerLink ref="mouez">mouez</innerLink>
+                        </i>
+                        (« puanteur »).
+                    </xml>
+                    <txt>du gaulois mudia (« excrément », « souillure ») soit du breton mous (« tas d'ordures »)&lt;ref&gt;cnrtl&lt;/ref&gt;,
+                        ou mouez (« puanteur »).
+                    </txt>
+                </etym>
+                <etym>
+                    <xml>du latin <foreignWord lang="la" sense="tronqué">mutius</foreignWord> qui dérive du radical
+                        <i>
+                            <innerLink ref="utt-">utt-</innerLink>
+                        </i>
+                        (« <innerLink ref="motte">motte</innerLink> »).
+                    </xml>
+                    <txt>du latin mutius (tronqué) qui dérive du radical utt- (« motte »).</txt>
+                </etym>
+            </etymology>
+            <pos type="nom" lemma="1" locution="0" homoNb="1" gender="f" number="s">
+                <pronunciations>
+                    <pron>mus</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="mousse" gracePOS="Ncfs" prons="mus"/>
+                    <inflection form="mousses" gracePOS="Ncfp" prons="mus"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="plantes"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="plante">Plante</innerLink>
+                                <innerLink ref="rase">rase</innerLink>
+                                des <innerLink ref="lieu">lieu</innerLink>x <innerLink ref="humide">humide</innerLink>s.
+                            </xml>
+                            <txt>Plante rase des lieux humides.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>En 1873, le bryologue RENAUD publiait, en collaboration avec D. LALOY, un excellent
+                                    Catalogue des plantes phanérogames et des <b>Mousses</b> observées jusqu'à cette
+                                    époque dans le département de la Haute-Saône
+                                </i>
+                                […]
+                            </xml>
+                            <txt>En 1873, le bryologue RENAUD publiait, en collaboration avec D. LALOY, un excellent
+                                Catalogue des plantes phanérogames et des Mousses observées jusqu'à cette époque dans le
+                                département de la Haute-Saône […]
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="métaphore"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="amas">Amas</innerLink>
+                                <innerLink ref="serré">serré</innerLink>
+                                de <innerLink ref="bulle">bulle</innerLink>s qui se <innerLink ref="forment">forme
+                            </innerLink> à la <innerLink ref="surface">surface</innerLink> d'un <innerLink
+                                    ref="liquide">liquide</innerLink>.
+                            </xml>
+                            <txt>Amas serré de bulles qui se forme à la surface d'un liquide.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Un cantinier qui se rase sur l'accotement, sa glace pendue à un cerisier, attend avec
+                                    nervosité, la figure débordant de <b>mousse</b>, que nous ayons fini de faire
+                                    trembler la route.
+                                </i>
+                            </xml>
+                            <txt>Un cantinier qui se rase sur l'accotement, sa glace pendue à un cerisier, attend avec
+                                nervosité, la figure débordant de mousse, que nous ayons fini de faire trembler la
+                                route.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="cuisine"/>
+                                <label type="sem" value="par extension"/>
+                            </labels>
+                            <xml><innerLink ref="dessert">Dessert</innerLink>, <innerLink ref="plein">plein</innerLink> de
+                                bulles, <innerLink ref="en général">en général</innerLink> au <innerLink ref="chocolat">
+                                    chocolat</innerLink>.
+                            </xml>
+                            <txt>Dessert, plein de bulles, en général au chocolat.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>J'adore les <b>mousses</b> au chocolat avec des biscuits.
+                                </i>
+                            </xml>
+                            <txt>J'adore les mousses au chocolat avec des biscuits.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="physique"/>
+                            </labels>
+                            <xml>Catalyseur</xml>
+                            <txt>Catalyseur</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>De la <b>mousse</b> de platine dans les pots d'échapppement
+                                </i>
+                            </xml>
+                            <txt>De la mousse de platine dans les pots d'échapppement</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="métonymie"/>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml><innerLink ref="bière">Bière</innerLink>.
+                            </xml>
+                            <txt>Bière.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>« Une bonne <b>mousse</b> bien fraîche, sans faux-col » est un oxymore.
+                                </i>
+                            </xml>
+                            <txt>« Une bonne mousse bien fraîche, sans faux-col » est un oxymore.</txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">écume</item>
+                    <item type="synonym">bière</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">moussage</item>
+                    <item type="derivative">moussant</item>
+                    <item type="derivative">mousser</item>
+                    <item type="derivative">mousseux</item>
+                    <item type="derivative">moussier</item>
+                    <item type="derivative">moussoir</item>
+                    <item type="derivative">moussu</item>
+                </subsection>
+                <translations>
+                    <trans lang="conv">Bryophyta</trans>
+                    <trans lang="de">Moos</trans>
+                    <trans lang="en">moss</trans>
+                    <trans lang="boi">š'epš</trans>
+                    <trans lang="br">man</trans>
+                    <trans lang="br">kinvi</trans>
+                    <trans lang="ca">molsa</trans>
+                    <trans lang="ca">briòfit</trans>
+                    <trans lang="co">murzu</trans>
+                    <trans lang="da">mos</trans>
+                    <trans lang="es">musgo</trans>
+                    <trans lang="eo">musko</trans>
+                    <trans lang="fi">sammal</trans>
+                    <trans lang="hoi">tthʼotl</trans>
+                    <trans lang="io">musko</trans>
+                    <trans lang="id">lumut</trans>
+                    <trans lang="kk">мүк</trans>
+                    <trans lang="nl">mos</trans>
+                    <trans lang="oc">mossa</trans>
+                    <trans lang="oc">mofa</trans>
+                    <trans lang="fa">خزه</trans>
+                    <trans lang="pl">mech</trans>
+                    <trans lang="ro">mușchi</trans>
+                    <trans lang="se">sámil</trans>
+                    <trans lang="de">Schaum</trans>
+                    <trans lang="en">foam</trans>
+                    <trans lang="en">suds</trans>
+                    <trans lang="ar">الحزازيات</trans>
+                    <trans lang="bgb">buraʼ</trans>
+                    <trans lang="br">spoum</trans>
+                    <trans lang="cjs">кӧбӱк</trans>
+                    <trans lang="co">sciuma</trans>
+                    <trans lang="da">skum</trans>
+                    <trans lang="es">espuma</trans>
+                    <trans lang="eo">ŝaŭmo</trans>
+                    <trans lang="io">spumo</trans>
+                    <trans lang="id">busa</trans>
+                    <trans lang="id">buih</trans>
+                    <trans lang="id">ruap</trans>
+                    <trans lang="kk">көбік</trans>
+                    <trans lang="nl">schuim</trans>
+                    <trans lang="fra-nor">bröe</trans>
+                    <trans lang="fa">کف</trans>
+                    <trans lang="pl">piana</trans>
+                    <trans lang="pl">pianka</trans>
+                    <trans lang="pt">colarinho</trans>
+                    <trans lang="ro">spumă</trans>
+                    <trans lang="de">Mousse</trans>
+                    <trans lang="en">mousse</trans>
+                    <trans lang="ca">mousse</trans>
+                    <trans lang="ca">escuma</trans>
+                    <trans lang="co">spuma</trans>
+                    <trans lang="da">mousse</trans>
+                    <trans lang="es">mousse</trans>
+                    <trans lang="es">espuma</trans>
+                    <trans lang="it">schiuma</trans>
+                    <trans lang="nl">mousse</trans>
+                    <trans lang="pl">mus</trans>
+                    <trans lang="ro">friscă</trans>
+                </translations>
+            </pos>
+            <pos type="nom" lemma="1" locution="0" homoNb="2" gender="m" number="s">
+                <pronunciations>
+                    <pron>mus</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="mousse" gracePOS="Ncms" prons="mus"/>
+                    <inflection form="mousses" gracePOS="Ncmp" prons="mus"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Jeune <innerLink ref="marin">marin</innerLink>.
+                            </xml>
+                            <txt>Jeune marin.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Les <b>mousses</b>, en raison de leur gymnastique particulière, ont aussi les bras et
+                                    les muscles pectoraux très-gros.
+                                </i>
+                            </xml>
+                            <txt>Les mousses, en raison de leur gymnastique particulière, ont aussi les bras et les
+                                muscles pectoraux très-gros.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Jean Donnard allait répondre, quand les sept marins et le <b>mousse</b>, qui
+                                    formaient le reste de son équipage, apparurent sur la cale, portant leurs capotes de
+                                    toile cirée et leurs paniers d'osier.
+                                </i>
+                            </xml>
+                            <txt>Jean Donnard allait répondre, quand les sept marins et le mousse, qui formaient le
+                                reste de son équipage, apparurent sur la cale, portant leurs capotes de toile cirée et
+                                leurs paniers d'osier.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Les <b>mousses</b> sont souvent les
+                                </i>
+                                souffre-douleur
+                                <i>de l'équipage. Tel maître a l'habitude de soulever, longtemps, par les deux oreilles
+                                    un moussaillon terrifié ; un <b>mousse</b> est attaché plusieurs heures par les
+                                    pieds et les mains au grand mât […].
+                                </i>
+                            </xml>
+                            <txt>Les mousses sont souvent les souffre-douleur de l'équipage. Tel maître a l'habitude de
+                                soulever, longtemps, par les deux oreilles un moussaillon terrifié ; un mousse est
+                                attaché plusieurs heures par les pieds et les mains au grand mât […].
+                            </txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">matelot</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">moussaillon</item>
+                </subsection>
+                <translations>
+                    <trans lang="de">Schiffsjunge</trans>
+                    <trans lang="en">cabin boy</trans>
+                    <trans lang="en">matey</trans>
+                    <trans lang="br">mous</trans>
+                    <trans lang="da">skibsdreng</trans>
+                    <trans lang="eo">ŝipknabo</trans>
+                    <trans lang="it">mozzo</trans>
+                    <trans lang="pl">chłopiec okrętowy</trans>
+                </translations>
+            </pos>
+            <pos type="nom" lemma="1" locution="0" homoNb="3" gender="m" number="s">
+                <pronunciations>
+                    <pron>mus</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="mousse" gracePOS="Ncms" prons="mus"/>
+                    <inflection form="mousses" gracePOS="Ncmp" prons="mus"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="diachronic" value="vieilli"/>
+                                <label type="attitudinal" value="argot"/>
+                            </labels>
+                            <xml><innerLink ref="excrément">Excrément</innerLink>.
+                            </xml>
+                            <txt>Excrément.</txt>
+                        </gloss>
+                    </definition>
+                </definitions>
+                <subsection type="morpho">
+                    <item type="derivative">mouscaille</item>
+                </subsection>
+            </pos>
+            <pos type="adjectif" lemma="1" locution="0" gender="e" number="s">
+                <pronunciations>
+                    <pron>mus</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="mousse" gracePOS="Afpms" prons="mus"/>
+                    <inflection form="mousse" gracePOS="Afpfs" prons="mus"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="diachronic" value="vieilli"/>
+                            </labels>
+                            <xml>Qui est <innerLink ref="émoussé">émoussé</innerLink>, qui a perdu son <innerLink
+                                    ref="tranchant">tranchant</innerLink>, en parlant d'une <innerLink ref="lame">
+                                lame</innerLink>.
+                            </xml>
+                            <txt>Qui est émoussé, qui a perdu son tranchant, en parlant d'une lame.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Pour compléter la nomenclature exacte de nos articles de voyage, je noterai une
+                                    pharmacie portative contenant des ciseaux à lames <b>mousses</b>, des attelles pour
+                                    fracture, une pièce de ruban en fil écru, des bandes et compresses, du sparadrap
+                                    [...].
+                                </i>
+                            </xml>
+                            <txt>Pour compléter la nomenclature exacte de nos articles de voyage, je noterai une
+                                pharmacie portative contenant des ciseaux à lames mousses, des attelles pour fracture,
+                                une pièce de ruban en fil écru, des bandes et compresses, du sparadrap [...].
+                            </txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">émoussé</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">émousse</item>
+                    <item type="derivative">émoussé</item>
+                    <item type="derivative">émousser</item>
+                </subsection>
+                <translations>
+                    <trans lang="de">stumpf</trans>
+                    <trans lang="en">blunt</trans>
+                    <trans lang="da">sløv</trans>
+                    <trans lang="da">stump</trans>
+                    <trans lang="es">embotado</trans>
+                    <trans lang="es">obtuso</trans>
+                    <trans lang="eo">malakra</trans>
+                    <trans lang="fo">óhvassur</trans>
+                    <trans lang="fi">tylppä</trans>
+                    <trans lang="fi">tylsä</trans>
+                    <trans lang="fy">stomp</trans>
+                    <trans lang="hu">tompa</trans>
+                    <trans lang="io">moso</trans>
+                    <trans lang="it">smussato</trans>
+                    <trans lang="it">spuntato</trans>
+                    <trans lang="nl">bot</trans>
+                    <trans lang="nl">stomp</trans>
+                    <trans lang="no">butt</trans>
+                    <trans lang="no">sløv</trans>
+                    <trans lang="no">stump</trans>
+                    <trans lang="pap">bòt</trans>
+                    <trans lang="pap">stòmpi</trans>
+                    <trans lang="pl">tępy</trans>
+                    <trans lang="pt">cego</trans>
+                    <trans lang="pt">embotado</trans>
+                    <trans lang="pt">obtuso</trans>
+                    <trans lang="ro">tocit</trans>
+                    <trans lang="ru">тупой</trans>
+                    <trans lang="srn">dede</trans>
+                    <trans lang="sv">ovass</trans>
+                    <trans lang="cs">tupý</trans>
+                    <trans lang="tr">yassi</trans>
+                </translations>
+            </pos>
+            <pos type="verbe" lemma="0" locution="0">
+                <pronunciations>
+                    <pron>mus</pron>
+                </pronunciations>
+                <inflectionInfos>
+                    <inflectedForm gracePOS="Vmip1s-" lemma="mousser"/>
+                    <inflectedForm gracePOS="Vmip3s-" lemma="mousser"/>
+                    <inflectedForm gracePOS="Vmsp1s-" lemma="mousser"/>
+                    <inflectedForm gracePOS="Vmsp3s-" lemma="mousser"/>
+                    <inflectedForm gracePOS="Vmmp2s-" lemma="mousser"/>
+                </inflectionInfos>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <i>Première personne du singulier du présent de l'indicatif de</i>
+                                <innerLink ref="mousser">mousser</innerLink>.
+                            </xml>
+                            <txt>Première personne du singulier du présent de l'indicatif de mousser.</txt>
+                        </gloss>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <i>Troisième personne du singulier du présent de l'indicatif de</i>
+                                <innerLink ref="mousser">mousser</innerLink>.
+                            </xml>
+                            <txt>Troisième personne du singulier du présent de l'indicatif de mousser.</txt>
+                        </gloss>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <i>Première personne du singulier du présent du subjonctif de</i>
+                                <innerLink ref="mousser">mousser</innerLink>.
+                            </xml>
+                            <txt>Première personne du singulier du présent du subjonctif de mousser.</txt>
+                        </gloss>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <i>Troisième personne du singulier du présent du subjonctif de</i>
+                                <innerLink ref="mousser">mousser</innerLink>.
+                            </xml>
+                            <txt>Troisième personne du singulier du présent du subjonctif de mousser.</txt>
+                        </gloss>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <i>Deuxième personne du singulier de l'impératif de</i>
+                                <innerLink ref="mousser">mousser</innerLink>.
+                            </xml>
+                            <txt>Deuxième personne du singulier de l'impératif de mousser.</txt>
+                        </gloss>
+                    </definition>
+                </definitions>
+            </pos>
+        </text>
+    </article>
+</glawi>

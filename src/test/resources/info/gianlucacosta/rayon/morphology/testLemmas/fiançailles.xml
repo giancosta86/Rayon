@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>fiançailles</title>
+        <pageId>161347</pageId>
+        <meta>
+            <import>DAF8</import>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France Paris">fi.jã.saj</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml>
+                        <century>xii</century>
+                        <cf value="fiancer|-aille" lang="fr"/>.
+                    </xml>
+                    <txt>voir fiancer et -aille.</txt>
+                </etym>
+            </etymology>
+            <pos type="nom" lemma="1" locution="0" gender="f" number="p">
+                <pronunciations>
+                    <pron>fi.jã.sɑj</pron>
+                    <pron>fjã.sɑj</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="fiançailles" gracePOS="Ncfp" prons="fi.jã.saj;fjã.sɑj;fi.jã.sɑj"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="engagement">Engagement</innerLink>
+                                de se <innerLink ref="marier">marier</innerLink> que prennent <innerLink ref="deux">
+                                deux
+                            </innerLink> personnes, généralement en présence de témoins.
+                            </xml>
+                            <txt>Engagement de se marier que prennent deux personnes, généralement en présence de
+                                témoins.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Faire part des <b>fiançailles</b>.
+                                </i>
+                            </xml>
+                            <txt>Faire part des fiançailles.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Bague de <b>fiançailles</b>.
+                                </i>
+                            </xml>
+                            <txt>Bague de fiançailles.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Inviter aux <b>fiançailles</b>.
+                                </i>
+                            </xml>
+                            <txt>Inviter aux fiançailles.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Rompre des <b>fiançailles</b>.
+                                </i>
+                            </xml>
+                            <txt>Rompre des fiançailles.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="période">Période</innerLink>
+                                qui s'écoule entre cet engagement et la <innerLink ref="cérémonie">cérémonie</innerLink> du <innerLink
+                                    ref="mariage">mariage</innerLink>.
+                            </xml>
+                            <txt>Période qui s'écoule entre cet engagement et la cérémonie du mariage.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Et elle prenait en pitié Elhamy en songeant aux désillusions qu'il avait dû subir
+                                    depuis les semaines insouciantes de ses <b>fiançailles</b>.
+                                </i>
+                            </xml>
+                            <txt>Et elle prenait en pitié Elhamy en songeant aux désillusions qu'il avait dû subir
+                                depuis les semaines insouciantes de ses fiançailles.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Pendant toute la période des <b>fiançailles</b>, le futur gendre va, pour manifester
+                                    sa bonne volonté au travail et rendre service à sa belle-mère, régulièrement
+                                    approvisionner la maison de ses beaux-parents en bois de feu.
+                                </i>
+                            </xml>
+                            <txt>Pendant toute la période des fiançailles, le futur gendre va, pour manifester sa bonne
+                                volonté au travail et rendre service à sa belle-mère, régulièrement approvisionner la
+                                maison de ses beaux-parents en bois de feu.
+                            </txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">accordailles</item>
+                </subsection>
+                <translations>
+                    <trans lang="de">Verlobung</trans>
+                    <trans lang="en">engagement</trans>
+                    <trans lang="bm">maminɛ</trans>
+                    <trans lang="co">appicciata</trans>
+                    <trans lang="co">spusaticciu</trans>
+                    <trans lang="da">forlovelse</trans>
+                    <trans lang="es">compromiso</trans>
+                    <trans lang="eo">fianĉiĝo</trans>
+                    <trans lang="io">fianco</trans>
+                    <trans lang="is">trúlofun</trans>
+                    <trans lang="it">fidanzamento</trans>
+                    <trans lang="nl">engagement</trans>
+                    <trans lang="nl">verloving</trans>
+                    <trans lang="no">forlovelse</trans>
+                    <trans lang="pap">kompromiso</trans>
+                    <trans lang="ru">обручение</trans>
+                    <trans lang="ses">ceedii</trans>
+                    <trans lang="sv">förlovning</trans>
+                </translations>
+            </pos>
+        </text>
+    </article>
+</glawi>

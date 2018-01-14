@@ -1,0 +1,3197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+
+    <article>
+        <title>faire</title>
+        <pageId>892</pageId>
+        <meta>
+            <reference>TLFi</reference>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">fɛʁ</pron>
+                <pron>fɛʁ</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml>du latin
+                        <foreignWord lang="la"/>
+                        populaire fagĕre (par analogie avec
+                        <i>
+                            <innerLink ref="agere">agĕre</innerLink>
+                        </i>
+                        ou, plus probablement, <innerLink ref="réfection">réfection</innerLink> sur les <innerLink
+                                ref="verbes">verbes
+                        </innerLink> en <i>-gĕre</i>, d'après les <innerLink ref="participe passé">participes passés
+                        </innerLink> en <i>-ctus</i>, communs aux deux formes), en latin classique
+                        <i>
+                            <innerLink ref="facere">facĕre</innerLink>
+                        </i>
+                        , de même sens.
+                    </xml>
+                    <txt>du latin populaire fagĕre (par analogie avec agĕre ou, plus probablement, réfection sur les
+                        verbes en -gĕre, d'après les participes passés en -ctus, communs aux deux formes), en latin
+                        classique facĕre, de même sens.
+                    </txt>
+                </etym>
+            </etymology>
+            <pos type="verbe" lemma="1" locution="0">
+                <pronunciations>
+                    <pron>fɛʁ</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="firent" gracePOS="Vmis3p-" prons="fiʁ"/>
+                    <inflection form="fasse" gracePOS="Vmsp3s-" prons="fas"/>
+                    <inflection form="feraient" gracePOS="Vmcp3p-" prons="fə.ʁɛ"/>
+                    <inflection form="fais" gracePOS="Vmip1s-" prons="fɛ"/>
+                    <inflection form="fisse" gracePOS="Vmsi1s-" prons="fis"/>
+                    <inflection form="fis" gracePOS="Vmis2s-" prons="fi"/>
+                    <inflection form="fera" gracePOS="Vmif3s-" prons="fə.ʁa"/>
+                    <inflection form="fissiez" gracePOS="Vmsi2p-" prons="fi.sje"/>
+                    <inflection form="ferai" gracePOS="Vmif1s-" prons="fə.ʁe"/>
+                    <inflection form="fassions" gracePOS="Vmsp1p-" prons="fa.sjɔ̃"/>
+                    <inflection form="feront" gracePOS="Vmif3p-" prons="fə.ʁɔ̃"/>
+                    <inflection form="faisant" gracePOS="Vmpp---" prons="fə.zã"/>
+                    <inflection form="faisais" gracePOS="Vmii1s-" prons="fə.zɛ"/>
+                    <inflection form="fissions" gracePOS="Vmsi1p-" prons="fi.sjɔ̃"/>
+                    <inflection form="faite" gracePOS="Vmps-sf" prons=""/>
+                    <inflection form="fîtes" gracePOS="Vmis2p-" prons="fit"/>
+                    <inflection form="fassent" gracePOS="Vmsp3p-" prons="fas"/>
+                    <inflection form="faisaient" gracePOS="Vmii3p-" prons="fə.zɛ"/>
+                    <inflection form="feriez" gracePOS="Vmcp2p-" prons="fə.ʁje"/>
+                    <inflection form="fais" gracePOS="Vmmp2s-" prons="fɛ"/>
+                    <inflection form="faisais" gracePOS="Vmii2s-" prons="fə.zɛ"/>
+                    <inflection form="fais" gracePOS="Vmip2s-" prons="fɛ"/>
+                    <inflection form="fisses" gracePOS="Vmsi2s-" prons="fis"/>
+                    <inflection form="faisons" gracePOS="Vmmp1p-" prons="fə.zɔ̃"/>
+                    <inflection form="fissent" gracePOS="Vmsi3p-" prons="fis"/>
+                    <inflection form="fassiez" gracePOS="Vmsp2p-" prons="fa.sje"/>
+                    <inflection form="faites" gracePOS="Vmps-pf" prons=""/>
+                    <inflection form="font" gracePOS="Vmip3p-" prons="fɔ̃"/>
+                    <inflection form="ferions" gracePOS="Vmcp1p-" prons="fə.ʁjɔ̃"/>
+                    <inflection form="faisions" gracePOS="Vmii1p-" prons="fə.zjɔ̃"/>
+                    <inflection form="ferait" gracePOS="Vmcp3s-" prons="fə.ʁɛ"/>
+                    <inflection form="ferais" gracePOS="Vmcp2s-" prons="fə.ʁɛ"/>
+                    <inflection form="fait" gracePOS="Vmip3s-" prons="fɛ"/>
+                    <inflection form="fait" gracePOS="Vmps-sm" prons="fɛ"/>
+                    <inflection form="faites" gracePOS="Vmmp2p-" prons="fɛt"/>
+                    <inflection form="fasse" gracePOS="Vmsp1s-" prons="fas"/>
+                    <inflection form="fit" gracePOS="Vmis3s-" prons="fi"/>
+                    <inflection form="fîmes" gracePOS="Vmis1p-" prons="fim"/>
+                    <inflection form="faisons" gracePOS="Vmip1p-" prons="fə.zɔ̃"/>
+                    <inflection form="fasses" gracePOS="Vmsp2s-" prons="fas"/>
+                    <inflection form="faire" gracePOS="Vmn----" prons="fɛʁ"/>
+                    <inflection form="faisait" gracePOS="Vmii3s-" prons="fə.zɛ"/>
+                    <inflection form="ferons" gracePOS="Vmif1p-" prons="fə.ʁɔ̃"/>
+                    <inflection form="fît" gracePOS="Vmsi3s-" prons="fi"/>
+                    <inflection form="fis" gracePOS="Vmis1s-" prons="fi"/>
+                    <inflection form="faits" gracePOS="Vmps-pm" prons=""/>
+                    <inflection form="faites" gracePOS="Vmip2p-" prons="fɛt"/>
+                    <inflection form="ferais" gracePOS="Vmcp1s-" prons="fə.ʁɛ"/>
+                    <inflection form="feras" gracePOS="Vmif2s-" prons="fə.ʁa"/>
+                    <inflection form="ferez" gracePOS="Vmif2p-" prons="fə.ʁe"/>
+                    <inflection form="faisiez" gracePOS="Vmii2p-" prons="fə.zje"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="créer">Créer</innerLink>, <innerLink ref="produire">
+                                produire</innerLink>, <innerLink ref="fabriquer">fabriquer</innerLink>, en parlant de
+                                toute
+                                <innerLink ref="œuvre">œuvre</innerLink>
+                                <innerLink ref="matériel">matériel</innerLink>le.
+                            </xml>
+                            <txt>Créer, produire, fabriquer, en parlant de toute œuvre matérielle.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Il y a donc eu certainement une époque où ce que nous voyons maintenant autour de
+                                    nous n'existait pas. Qui l'<b>a</b> donc <b>fait</b> ? Qui ? si ce n'est l'Être
+                                    Suprême.
+                                </i>
+                            </xml>
+                            <txt>Il y a donc eu certainement une époque où ce que nous voyons maintenant autour de nous
+                                n'existait pas. Qui l'a donc fait ? Qui ? si ce n'est l'Être Suprême.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>''La nature est admirable dans tout ce qu'elle <b>fait</b>.
+                            </xml>
+                            <txt>La nature est admirable dans tout ce qu'elle fait.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>L'oiseau <b>fait</b> son nid, l'araignée <b>fait</b> sa toile, les castors <b>font
+                                </b> une digue, les abeilles <b>font</b> leur miel.
+                                </i>
+                            </xml>
+                            <txt>L'oiseau fait son nid, l'araignée fait sa toile, les castors font une digue, les
+                                abeilles font leur miel.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="préparer">Préparer</innerLink>
+                                un <innerLink ref="repas">repas</innerLink>, le <innerLink ref="cuisiner">
+                                cuisiner</innerLink>.
+                            </xml>
+                            <txt>Préparer un repas, le cuisiner.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le dîner (ou <b>faire</b> à dîner), le déjeuner, le souper
+                                </i>
+                                .
+                            </xml>
+                            <txt>Faire le dîner (ou faire à dîner), le déjeuner, le souper.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="élaborer">Élaborer</innerLink>, en parlant des <innerLink ref="œuvre">
+                                œuvre</innerLink>s de l'<innerLink ref="intelligence">intelligence</innerLink> et de
+                                l'<innerLink ref="imagination">imagination</innerLink>.
+                            </xml>
+                            <txt>Élaborer, en parlant des œuvres de l'intelligence et de l'imagination.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Un ouvrage,un dessin <b>fait</b> à la main.
+                                </i>
+                            </xml>
+                            <txt>Un ouvrage,un dessin fait à la main.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    du calcul mental, un récit, une description, des vers, de la prose, de l'histoire,
+                                    de la musique, du théâtre, de la peinture…
+                                </i>
+                            </xml>
+                            <txt>Faire du calcul mental, un récit, une description, des vers, de la prose, de
+                                l'histoire, de la musique, du théâtre, de la peinture…
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Un écolier qui <b>fait</b> ses devoirs, ses exercices.
+                                </i>
+                            </xml>
+                            <txt>Un écolier qui fait ses devoirs, ses exercices.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="diachronic" value="vieilli"/>
+                            </labels>
+                            <xml>
+                                <i>C'est un conte <b>fait</b> à plaisir, ou <b>fait</b> à façon
+                                </i>
+                                : C'est une histoire réécrite, inventée.
+                            </xml>
+                            <txt>C'est un conte fait à plaisir, ou fait à façon : C'est une histoire réécrite,
+                                inventée.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il faut <b>faire</b> comme les autres : maxime suspecte, qui signifie presque
+                                    toujours : il faut mal faire.
+                                </i>
+                            </xml>
+                            <txt>Il faut faire comme les autres : maxime suspecte, qui signifie presque toujours : il
+                                faut mal faire.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="opérer">Opérer</innerLink>, <innerLink ref="effectuer">
+                                effectuer</innerLink>, <innerLink ref="exécuter">exécuter</innerLink>, <innerLink
+                                    ref="accomplir">accomplir</innerLink>, <innerLink ref="réaliser">
+                                réaliser</innerLink>, que ce soit d'
+                                <innerLink ref="ordre">ordre</innerLink>
+                                <innerLink ref="physique">physique</innerLink>
+                                ou d'ordre <innerLink ref="moral">moral</innerLink>.
+                            </xml>
+                            <txt>Opérer, effectuer, exécuter, accomplir, réaliser, que ce soit d'ordre physique ou
+                                d'ordre moral.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Là encore mes amis, vous <b>avez fait</b> de l'excellente besogne et vous l'<b>avez
+                                    faite
+                                </b> sans bruit, sans flafla, comme toujours, […].
+                                </i>
+                            </xml>
+                            <txt>Là encore mes amis, vous avez fait de l'excellente besogne et vous l'avez faite sans
+                                bruit, sans flafla, comme toujours, […].
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le bien, le mal.
+                                </i>
+                            </xml>
+                            <txt>Faire le bien, le mal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    la guerre, la paix, la trêve, une trêve.
+                                </i>
+                            </xml>
+                            <txt>Faire la guerre, la paix, la trêve, une trêve.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    des affaires, des dettes.
+                                </i>
+                            </xml>
+                            <txt>Faire des affaires, des dettes.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    des prisonniers.
+                                </i>
+                            </xml>
+                            <txt>Faire des prisonniers.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    des excuses à quelqu'un.
+                                </i>
+                            </xml>
+                            <txt>Faire des excuses à quelqu'un.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    du bruit.
+                                </i>
+                            </xml>
+                            <txt>Faire du bruit.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    un achat.
+                                </i>
+                            </xml>
+                            <txt>Faire un achat.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    un bon repas
+                                </i>
+                                .
+                            </xml>
+                            <txt>Faire un bon repas.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    un envoi : Envoyer quelque chose.
+                                </i>
+                            </xml>
+                            <txt>Faire un envoi : Envoyer quelque chose.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une expérience : Vivre une expérience.
+                                </i>
+                            </xml>
+                            <txt>Faire une expérience : Vivre une expérience.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une faute de langue, de français, de grammaire, de conjugaison, d'orthographe…. <b>
+                                    Faire
+                                </b> une fête.
+                                </i>
+                            </xml>
+                            <txt>Faire une faute de langue, de français, de grammaire, de conjugaison, d'orthographe….
+                                Faire une fête.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une prière, sa prière, une promesse, un serment, un vœu, des vœux.
+                                </i>
+                            </xml>
+                            <txt>Faire une prière, sa prière, une promesse, un serment, un vœu, des vœux.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>Faire</b>
+                                un mouvement.''
+                            </xml>
+                            <txt>Faire un mouvement.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml><innerLink ref="dire">Dire</innerLink>.
+                            </xml>
+                            <txt>Dire.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>- Je le sais, <b>fit</b>-il ; rien n'est plus malaisé que de se désencombrer l'esprit
+                                    des images qui l'obsèdent, […].
+                                </i>
+                            </xml>
+                            <txt>- Je le sais, fit-il ; rien n'est plus malaisé que de se désencombrer l'esprit des
+                                images qui l'obsèdent, […].
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml><innerLink ref="accorder">Accorder</innerLink>.
+                            </xml>
+                            <txt>Accorder.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    quelque chose pour quelqu'un.
+                                </i>
+                            </xml>
+                            <txt>Faire quelque chose pour quelqu'un.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml><innerLink ref="provoquer">Provoquer</innerLink>.
+                            </xml>
+                            <txt>Provoquer.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une incartade.
+                                </i>
+                            </xml>
+                            <txt>Faire une incartade.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml><innerLink ref="pratiquer">Pratiquer</innerLink>.
+                            </xml>
+                            <txt>Pratiquer.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une opération chirurgicale.
+                                </i>
+                            </xml>
+                            <txt>Faire une opération chirurgicale.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                                <label type="attitudinal" value="populaire"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="dérober">Dérober</innerLink>
+                                ; <innerLink ref="faire les poches">faire les poches</innerLink>.
+                            </xml>
+                            <txt>Dérober ; faire les poches.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Imbécile de Grubb, - maugréait-il, fouillant en vain ses poches. - Il avait bien
+                                    besoin de garder ma boite… avec sa maudite habitude de vous « <b>faire</b> » vos
+                                    allumettes.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>Imbécile de Grubb, - maugréait-il, fouillant en vain ses poches. - Il avait bien besoin
+                                de garder ma boite… avec sa maudite habitude de vous « faire » vos allumettes. }}
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Avoir dans son
+                                <innerLink ref="domaine">domaine</innerLink>
+                                <innerLink ref="professionnel">professionnel</innerLink>.
+                            </xml>
+                            <txt>Avoir dans son domaine professionnel.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Désolé, monsieur, nous ne <b>faisons</b> plus cet article.
+                                </i>
+                                (Nous ne le <innerLink ref="vendre">vendons</innerLink> plus.)
+                            </xml>
+                            <txt>Désolé, monsieur, nous ne faisons plus cet article. (Nous ne le vendons plus.)</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>J'<b>fais</b> un peu l'orge, je <b>fais</b> un peu l'avoine. J'suis obligé de <b>
+                                    faire
+                                </b> l'avoine, parce que je <b>fais</b> le cheval.
+                                </i>
+                            </xml>
+                            <txt>J'fais un peu l'orge, je fais un peu l'avoine. J'suis obligé de faire l'avoine, parce
+                                que je fais le cheval.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Se <innerLink ref="mouvoir">mouvoir</innerLink> dans un <innerLink ref="déplacement">
+                                déplacement
+                            </innerLink> d'un <innerLink ref="lieu">lieu</innerLink> à un autre.
+                            </xml>
+                            <txt>Se mouvoir dans un déplacement d'un lieu à un autre.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    des pas, <b>faire</b> les cent pas.
+                                </i>
+                            </xml>
+                            <txt>Faire des pas, faire les cent pas.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                un tour de promenade, le tour de la ville. ''
+                            </xml>
+                            <txt>Faire un tour de promenade, le tour de la ville.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                une lieue à pied. ''
+                            </xml>
+                            <txt>Faire une lieue à pied.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                des allées et venues.''
+                            </xml>
+                            <txt>Faire des allées et venues.</txt>
+                        </example>
+                        <example>
+                            <xml>''<b>Faire</b> une course, un voyage, un long trajet, un grand circuit.
+                            </xml>
+                            <txt>Faire une course, un voyage, un long trajet, un grand circuit.</txt>
+                        </example>
+                        <example>
+                            <xml>La Terre <b>fait</b> sa révolution en 365 jours et un quart.
+                            </xml>
+                            <txt>La Terre fait sa révolution en 365 jours et un quart.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="signaler">Signaler</innerLink>, <innerLink ref="indiquer">indiquer
+                            </innerLink> un <innerLink ref="état">état</innerLink> de <innerLink ref="chose">
+                                chose</innerLink>s.
+                            </xml>
+                            <txt>Signaler, indiquer un état de choses.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ma voiture <b>fait</b> du 230 à l'heure.
+                                </i>
+                            </xml>
+                            <txt>Ma voiture fait du 230 à l'heure.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="disposer">Disposer</innerLink>, <innerLink ref="ranger">
+                                ranger</innerLink>, <innerLink ref="arranger">arranger</innerLink>, mettre dans un
+                                <innerLink ref="état">état</innerLink>
+                                <innerLink ref="convenable">convenable</innerLink>.
+                            </xml>
+                            <txt>Disposer, ranger, arranger, mettre dans un état convenable.</txt>
+                        </gloss>
+                        <example>
+                            <xml>''<b>Faire</b> sa chambre, son lit.
+                            </xml>
+                            <txt>Faire sa chambre, son lit.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                ses ongles, ou se <b>faire</b> les ongles.''
+                            </xml>
+                            <txt>Faire ses ongles, ou se faire les ongles.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="en particulier"/>
+                            </labels>
+                            <xml><innerLink ref="farder">Farder</innerLink>, <innerLink ref="maquiller">
+                                maquiller</innerLink>.
+                            </xml>
+                            <txt>Farder, maquiller.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    son visage, <b>faire</b> ses yeux
+                                </i>
+                                .
+                            </xml>
+                            <txt>Faire son visage, faire ses yeux.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="amasser">Amasser</innerLink>, <innerLink ref="assembler">
+                                assembler</innerLink>,
+                                <innerLink ref="mettre">mettre</innerLink>
+                                <innerLink ref="ensemble">ensemble</innerLink>, en parlant d'<innerLink ref="argent">
+                                    argent
+                                </innerLink> ou d'autres choses dont on a <innerLink ref="besoin">besoin</innerLink> de
+                                se <innerLink ref="pourvoir">pourvoir</innerLink>.
+                            </xml>
+                            <txt>Amasser, assembler, mettre ensemble, en parlant d'argent ou d'autres choses dont on a
+                                besoin de se pourvoir.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Des fuites découvertes dans la chaudière m'ont fait hésiter à quitter l'Islande pour
+                                    les réparer ; en tous cas il était urgent de <b>faire</b> un peu d'eau […]
+                                </i>
+                            </xml>
+                            <txt>Des fuites découvertes dans la chaudière m'ont fait hésiter à quitter l'Islande pour
+                                les réparer ; en tous cas il était urgent de faire un peu d'eau […]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Tâche de te <b>faire</b> quelque argent cet été !
+                                </i>
+                            </xml>
+                            <txt>Tâche de te faire quelque argent cet été !</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                des provisions, des courses.''
+                            </xml>
+                            <txt>Faire des provisions, des courses.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                des bénéfices, <b>faire</b> fortune, <b>faire</b> des frais.''
+                            </xml>
+                            <txt>Faire des bénéfices, faire fortune, faire des frais.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="employer">Employer</innerLink>
+                                ses <innerLink ref="force">force</innerLink>s, ses <innerLink ref="talent">
+                                talent</innerLink>s, l'<innerLink ref="activité">activité</innerLink> de son <innerLink
+                                    ref="esprit">esprit
+                            </innerLink> à quelque chose ; s'en <innerLink ref="occuper">occuper</innerLink>, y <innerLink
+                                    ref="passer">passer
+                            </innerLink> son <innerLink ref="temps">temps</innerLink>.
+                            </xml>
+                            <txt>Employer ses forces, ses talents, l'activité de son esprit à quelque chose ; s'en
+                                occuper, y passer son temps.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    un travail, sa besogne.
+                                </i>
+                            </xml>
+                            <txt>Faire un travail, sa besogne.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il n'a rien <b>fait</b> de toute la journée.
+                                </i>
+                            </xml>
+                            <txt>Il n'a rien fait de toute la journée.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                tout ce qu'on peut, tous ses efforts.''
+                            </xml>
+                            <txt>Faire tout ce qu'on peut, tous ses efforts.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="diatopic" value="France"/>
+                            </labels>
+                            <xml>
+                                <i>Ça le <b>fait</b>.
+                                </i>
+                            </xml>
+                            <txt>Ça le fait.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est un homme qui ne trouve rien de difficile à <b>faire</b>.
+                                </i>
+                            </xml>
+                            <txt>C'est un homme qui ne trouve rien de difficile à faire.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Que <b>faites</b>-vous cet après-midi ?
+                                </i>
+                            </xml>
+                            <txt>Que faites-vous cet après-midi ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je n'ai rien à <b>faire</b>.
+                                </i>
+                            </xml>
+                            <txt>Je n'ai rien à faire.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Qu'est-ce que <b>fait</b> cet homme ? Quelle profession a-t-il ?
+                                </i>
+                            </xml>
+                            <txt>Qu'est-ce que fait cet homme ? Quelle profession a-t-il ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce jeune homme ne <b>fait</b> rien, il a perdu son emploi.
+                                </i>
+                            </xml>
+                            <txt>Ce jeune homme ne fait rien, il a perdu son emploi.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="observer">Observer</innerLink>, <innerLink ref="mettre en pratique">
+                                mettre en pratique</innerLink>, souvent par <innerLink ref="obligation">obligation
+                            </innerLink> ou par <innerLink ref="précepte">précepte</innerLink>.
+                            </xml>
+                            <txt>Observer, mettre en pratique, souvent par obligation ou par précepte.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    ce que la Religion ordonne, son devoir, sa prière.
+                                </i>
+                            </xml>
+                            <txt>Faire ce que la Religion ordonne, son devoir, sa prière.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    la pénitence qui est imposée, ses pâques, les Rois.
+                                </i>
+                            </xml>
+                            <txt>Faire la pénitence qui est imposée, ses pâques, les Rois.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>
+                                    <i>Faire</i>
+                                </b>
+                                maigre, diète.''
+                            </xml>
+                            <txt>Faire maigre, diète.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une fête : La célébrer.
+                                </i>
+                            </xml>
+                            <txt>Faire une fête : La célébrer.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le lundi : Passer le lundi à se reposer au lieu de travailler.
+                                </i>
+                            </xml>
+                            <txt>Faire le lundi : Passer le lundi à se reposer au lieu de travailler.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="exécuter">Exécuter</innerLink>
+                                ou <innerLink ref="pratiquer">pratiquer</innerLink> certaines choses que l'on s'oblige à <innerLink
+                                    ref="achever">achever
+                            </innerLink> en un certain temps.
+                            </xml>
+                            <txt>Exécuter ou pratiquer certaines choses que l'on s'oblige à achever en un certain
+                                temps.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>Faire la quarantaine ou faire quarantaine.</xml>
+                            <txt>Faire la quarantaine ou faire quarantaine.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    ses classes, son droit, sa médecine, son apprentissage, son noviciat, son service
+                                    militaire.
+                                </i>
+                            </xml>
+                            <txt>Faire ses classes, son droit, sa médecine, son apprentissage, son noviciat, son service
+                                militaire.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une neuvaine.
+                                </i>
+                            </xml>
+                            <txt>Faire une neuvaine.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="former">Former</innerLink>, <innerLink ref="façonner">
+                                façonner</innerLink>, <innerLink ref="perfectionner">perfectionner</innerLink> quelqu'un.
+                            </xml>
+                            <txt>Former, façonner, perfectionner quelqu'un.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ce général <b>a fait</b> de bons officiers.
+                                </i>
+                            </xml>
+                            <txt>Ce général a fait de bons officiers.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce professeur <b>a fait</b> de bons écoliers.
+                                </i>
+                            </xml>
+                            <txt>Ce professeur a fait de bons écoliers.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Les affaires <b>font</b> les hommes.
+                                </i>
+                            </xml>
+                            <txt>Les affaires font les hommes.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="former">Former</innerLink>, <innerLink ref="composer">
+                                composer</innerLink>, <innerLink ref="constituer">constituer</innerLink> un tout,
+                                une <innerLink ref="seul">seul</innerLink>e chose, en parlant de <innerLink ref="deux">
+                                    deux
+                                </innerLink> ou de <innerLink ref="plusieurs">plusieurs</innerLink> choses qui
+                                s'unissent, s'ajoutent, etc.
+                            </xml>
+                            <txt>Former, composer, constituer un tout, une seule chose, en parlant de deux ou de
+                                plusieurs choses qui s'unissent, s'ajoutent, etc.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Deux et deux <b>font</b> quatre.
+                                </i>
+                            </xml>
+                            <txt>Deux et deux font quatre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cinq fois deux <b>font</b> dix.
+                                </i>
+                            </xml>
+                            <txt>Cinq fois deux font dix.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Toutes ces sommes ensemble <b>font</b> tant.
+                                </i>
+                            </xml>
+                            <txt>Toutes ces sommes ensemble font tant.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Deux lignes qui se coupent <b>font</b> un angle.
+                                </i>
+                            </xml>
+                            <txt>Deux lignes qui se coupent font un angle.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ces forêts, ces ruisseaux, ces montagnes, tout cela ensemble <b>fait</b> un beau
+                                    pays.
+                                </i>
+                            </xml>
+                            <txt>Ces forêts, ces ruisseaux, ces montagnes, tout cela ensemble fait un beau pays.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="consister">Consister</innerLink>
+                                l'<innerLink ref="essence">essence</innerLink> d'une chose.
+                            </xml>
+                            <txt>Consister l'essence d'une chose.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ce qui <b>fait</b> la qualité du vin.
+                                </i>
+                            </xml>
+                            <txt>Ce qui fait la qualité du vin.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Le spectacle <b>faisait</b> le beau de la fête.
+                                </i>
+                            </xml>
+                            <txt>Le spectacle faisait le beau de la fête.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>La clarté <b>fait</b> le principal mérite de son style.
+                                </i>
+                            </xml>
+                            <txt>La clarté fait le principal mérite de son style.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Voilà ce qui <b>fait</b> l'objet de mes recherches.
+                                </i>
+                            </xml>
+                            <txt>Voilà ce qui fait l'objet de mes recherches.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce fils <b>fait</b> toute la joie de sa mère.
+                                </i>
+                            </xml>
+                            <txt>Ce fils fait toute la joie de sa mère.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Être la <innerLink ref="cause">cause</innerLink> de
+                                <innerLink ref="tel ou tel">tel ou
+                                    tel
+                                </innerLink>
+                                <innerLink ref="résultat">résultat</innerLink>
+                                ou en être l'<innerLink ref="occasion">
+                                    occasion</innerLink>.
+                            </xml>
+                            <txt>Être la cause de tel ou tel résultat ou en être l'occasion.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ce remède m'<b>a fait</b> beaucoup de bien.
+                                </i>
+                            </xml>
+                            <txt>Ce remède m'a fait beaucoup de bien.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Sa réussite lui <b>a fait</b> beaucoup d'ennemis.
+                                </i>
+                            </xml>
+                            <txt>Sa réussite lui a fait beaucoup d'ennemis.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ses propos lui <b>ont fait</b> du tort.
+                                </i>
+                            </xml>
+                            <txt>Ses propos lui ont fait du tort.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il ne faut <b>faire</b> de peine (ou de la peine) à personne.
+                                </i>
+                            </xml>
+                            <txt>Il ne faut faire de peine (ou de la peine) à personne.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    des jaloux, des mécontents, des dupes, des heureux.
+                                </i>
+                            </xml>
+                            <txt>Faire des jaloux, des mécontents, des dupes, des heureux.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est ce qui <b>fait</b> que les choses vont si mal.
+                                </i>
+                            </xml>
+                            <txt>C'est ce qui fait que les choses vont si mal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cela ne <b>fera</b> que l'irriter davantage.
+                                </i>
+                            </xml>
+                            <txt>Cela ne fera que l'irriter davantage.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i><b>Faites</b>, je vous en prie, que cela soit vite fini.
+                                </i>
+                            </xml>
+                            <txt>Faites, je vous en prie, que cela soit vite fini.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est à vous à <b>faire</b> que rien ne manque.
+                                </i>
+                            </xml>
+                            <txt>C'est à vous à faire que rien ne manque.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Nous <b>ferons</b> en sorte qu'ils n'aient pas lieu de se plaindre.
+                                </i>
+                            </xml>
+                            <txt>Nous ferons en sorte qu'ils n'aient pas lieu de se plaindre.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="attitudinal" value="péjoratif"/>
+                            </labels>
+                            <xml>Se <innerLink ref="donner">donner</innerLink> une
+                                <innerLink ref="apparence">
+                                    apparence
+                                </innerLink>
+                                <innerLink ref="mensongère">mensongère</innerLink>.
+                            </xml>
+                            <txt>Se donner une apparence mensongère.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    la bête, la bourgeoise.
+                                </i>
+                            </xml>
+                            <txt>Faire la bête, la bourgeoise.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <b>Faire</b>
+                                l'empressé, l'enfant, l'entendu, l'esprit fort, le fanfaron, le gentil.''
+                            </xml>
+                            <txt>Faire l'empressé, l'enfant, l'entendu, l'esprit fort, le fanfaron, le gentil.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le grand seigneur, l'homme d'importance, le malade, le malin, le mort, le savant, le
+                                    sourd.
+                                </i>
+                            </xml>
+                            <txt>Faire le grand seigneur, l'homme d'importance, le malade, le malin, le mort, le savant,
+                                le sourd.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>Donner l'air, créer une impression particulière.</xml>
+                            <txt>Donner l'air, créer une impression particulière.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ces lunettes, ça <b>fait</b> vraiment intello.
+                                </i>
+                            </xml>
+                            <txt>Ces lunettes, ça fait vraiment intello.</txt>
+                        </example>
+                        <example>
+                            <xml><i>Ils truffent leurs communiqués de mots comme</i>responsabilité sociale<i>ou</i>écologie
+                                <i>, pour <b>faire</b> bien, pour <b>faire</b> moderne, mais tout ça, c'est de la poudre
+                                    aux yeux.
+                                </i>
+                            </xml>
+                            <txt>Ils truffent leurs communiqués de mots comme responsabilité sociale ou écologie, pour
+                                faire bien, pour faire moderne, mais tout ça, c'est de la poudre aux yeux.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Non, pas un 4x4, ça <b>fait</b> nouveau riche.
+                                </i>
+                            </xml>
+                            <txt>Non, pas un 4x4, ça fait nouveau riche.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>
+                                <b>Faire</b>
+                                ici (ou là) : Être en ce lieu.
+                            </xml>
+                            <txt>Faire ici (ou là) : Être en ce lieu.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Qu'est-ce que vous <b>faites</b> ici ? : Pourquoi êtes-vous en ce lieu ?
+                                </i>
+                            </xml>
+                            <txt>Qu'est-ce que vous faites ici ? : Pourquoi êtes-vous en ce lieu ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce livre n'a rien à <b>faire</b> là.
+                                </i>
+                            </xml>
+                            <txt>Ce livre n'a rien à faire là.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Construit avec la
+                                <innerLink ref="préposition">préposition</innerLink>
+                                <innerLink ref="de">de</innerLink>, il prend le sens de <innerLink ref="changer">
+                                    changer</innerLink>, <innerLink ref="transformer">transformer</innerLink> en.
+                            </xml>
+                            <txt>Construit avec la préposition de, il prend le sens de changer, transformer en.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Que <b>ferez</b>-vous <b>de</b> votre fils ?
+                                </i>
+                            </xml>
+                            <txt>Que ferez-vous de votre fils ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>On veut <b>faire d</b>'elle une institutrice.
+                                </i>
+                            </xml>
+                            <txt>On veut faire d'elle une institutrice.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce précepteur ne <b>fera</b> rien <b>de</b> son élève.
+                                </i>
+                            </xml>
+                            <txt>Ce précepteur ne fera rien de son élève.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>On <b>a fait de</b> cet ancien théâtre une salle de bal.
+                                </i>
+                            </xml>
+                            <txt>On a fait de cet ancien théâtre une salle de bal.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Toujours avec la préposition <i>de</i>, il peut signifier <innerLink ref="employer">
+                                employer
+                            </innerLink> quelqu'un ou quelque chose, en <innerLink ref="disposer">disposer</innerLink>,
+                                en tirer <innerLink ref="parti">parti</innerLink> d'une <innerLink ref="façon">façon
+                                </innerLink> ou d'une autre.
+                            </xml>
+                            <txt>Toujours avec la préposition de, il peut signifier employer quelqu'un ou quelque chose,
+                                en disposer, en tirer parti d'une façon ou d'une autre.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Que voulez-vous que je <b>fasse de</b> cet homme-là ?
+                                </i>
+                            </xml>
+                            <txt>Que voulez-vous que je fasse de cet homme-là ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Vous ne <b>faites</b> rien <b>de</b> ce meuble-là, vous n'<b>en faites</b> rien ?
+                                </i>
+                            </xml>
+                            <txt>Vous ne faites rien de ce meuble-là, vous n'en faites rien ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faites de</b>
+                                    cela ce que bon vous semble.
+                                </i>
+                            </xml>
+                            <txt>Faites de cela ce que bon vous semble.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il ne sait que <b>faire de</b> son temps.
+                                </i>
+                            </xml>
+                            <txt>Il ne sait que faire de son temps.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>S'emploie souvent en tant que <innerLink ref="verbe">verbe</innerLink>-<innerLink
+                                    ref="substitut">substitut
+                            </innerLink> pour <innerLink ref="éviter">éviter</innerLink> la <innerLink ref="répétition">
+                                répétition
+                            </innerLink> du
+                                <innerLink ref="verbe">verbe</innerLink>
+                                <innerLink ref="précédent">précédent</innerLink>, précédé des <innerLink
+                                        ref="conjonction">conjonction</innerLink>s
+                                <i><innerLink ref="comme">comme</innerLink>, <innerLink ref="ainsi que">ainsi
+                                    que</innerLink>, <innerLink ref="autant que">autant que</innerLink>, <innerLink
+                                        ref="moins que">moins que</innerLink>,
+                                    <innerLink ref="plus que">plus que</innerLink>
+                                </i>
+                                , etc., et accompagné du pronom personnel
+                                <i>
+                                    <innerLink ref="le">le</innerLink>
+                                </i>
+                                (
+                                <i>
+                                    <innerLink ref="l'">l'</innerLink>
+                                </i>
+                                ), celui-ci représentant l'action décrite juste avant.
+                            </xml>
+                            <txt>S'emploie souvent en tant que verbe-substitut pour éviter la répétition du verbe
+                                précédent, précédé des conjonctions comme, ainsi que, autant que, moins que, plus que,
+                                etc., et accompagné du pronom personnel le (l), celui-ci représentant l'action décrite
+                                juste avant.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Il répondit comme les autres <b>l'avaient fait</b> : Comme les autres avaient
+                                    répondu.
+                                </i>
+                            </xml>
+                            <txt>Il répondit comme les autres l'avaient fait : Comme les autres avaient répondu.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Nous parlions de plein de choses, comme <b>l'auraient fait</b> deux anciens amis :
+                                    Comme auraient parlé deux anciens amis.
+                                </i>
+                            </xml>
+                            <txt>Nous parlions de plein de choses, comme l'auraient fait deux anciens amis : Comme
+                                auraient parlé deux anciens amis.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il apprit à chasser comme son père <b>le faisait</b> avant lui : Comme son père
+                                    chassait avant lui.
+                                </i>
+                            </xml>
+                            <txt>Il apprit à chasser comme son père le faisait avant lui : Comme son père chassait avant
+                                lui.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il vous protègera beaucoup plus que je ne pourrai <b>le faire</b>.
+                                </i>
+                            </xml>
+                            <txt>Il vous protègera beaucoup plus que je ne pourrai le faire.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Le chien aboya à notre approche, ainsi que <b>le font</b> tous les chiens.
+                                </i>
+                            </xml>
+                            <txt>Le chien aboya à notre approche, ainsi que le font tous les chiens.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>(Observation)</i>
+                                La langue classique permet cette substitution sans le pronom personnel, et même s'il ne
+                                s'agit pas d'une action :
+                            </xml>
+                            <txt>La langue classique permet cette substitution sans le pronom personnel, et même s'il ne
+                                s'agit pas d'une action :
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je ne me trouve plus belle comme je <b>faisais</b>.
+                                </i>
+                            </xml>
+                            <txt>Je ne me trouve plus belle comme je faisais.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Il est également substitut dans l'
+                                <innerLink ref="expression">expression</innerLink>
+                                <i>
+                                    <innerLink ref="en faire autant">en faire autant</innerLink>
+                                </i>
+                                .
+                            </xml>
+                            <txt>Il est également substitut dans l'expression en faire autant.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Je vais dormir, tu devrais <b>en faire autant</b>.
+                                </i>
+                            </xml>
+                            <txt>Je vais dormir, tu devrais en faire autant.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Mais on ne doit pas confondre cet emploi avec une autre tournure (sans conjonction de
+                                subordination) dans laquelle <i>faire</i>, conservant le sens d'exécuter, opérer,
+                                effectuer, etc., a également pour complément le pronom <i>le</i> qui représente le verbe
+                                précédent.
+                            </xml>
+                            <txt>Mais on ne doit pas confondre cet emploi avec une autre tournure (sans conjonction de
+                                subordination) dans laquelle faire, conservant le sens d'exécuter, opérer, effectuer,
+                                etc., a également pour complément le pronom le qui représente le verbe précédent.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Il voudrait partir, mais il ne peut
+                                    <b>le faire</b>
+                                </i>
+                                (faire l'action de partir)
+                                <i>sans autorisation.</i>
+                            </xml>
+                            <txt>Il voudrait partir, mais il ne peut le faire (faire l'action de partir) sans
+                                autorisation.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Quoiqu'il ait tous les moyens de vous obliger, il ne <b>le fera</b> pas.
+                                </i>
+                            </xml>
+                            <txt>Quoiqu'il ait tous les moyens de vous obliger, il ne le fera pas.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une partie : Jouer une partie (de cartes, d'échecs, de dames, etc.).
+                                </i>
+                            </xml>
+                            <txt>Faire une partie : Jouer une partie (de cartes, d'échecs, de dames, etc.).</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    les cartes : Les mélanger et les donner.
+                                </i>
+                            </xml>
+                            <txt>Faire les cartes : Les mélanger et les donner.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    une levée : Ramasser les cartes jouées.
+                                </i>
+                            </xml>
+                            <txt>Faire une levée : Ramasser les cartes jouées.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    tant de points : Gagner tant de points.
+                                </i>
+                            </xml>
+                            <txt>Faire tant de points : Gagner tant de points.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le jeu : Avoir les bonnes cartes.
+                                </i>
+                            </xml>
+                            <txt>Faire le jeu : Avoir les bonnes cartes.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est à vous à
+                                    <b>faire</b>
+                                </i>
+                                : C'est à vous de distribuer les cartes ; ou encore c'est à vous de jouer en premier.
+                            </xml>
+                            <txt>C'est à vous à faire : C'est à vous de distribuer les cartes ; ou encore c'est à vous
+                                de jouer en premier.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le quart.
+                                </i>
+                            </xml>
+                            <txt>Faire le quart.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    voile vers un endroit : Se diriger à la voile vers un point déterminé.
+                                </i>
+                            </xml>
+                            <txt>Faire voile vers un endroit : Se diriger à la voile vers un point déterminé.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    le point : Déterminer par l'observation des astres la position exacte d'un navire
+                                    sur la mer.
+                                </i>
+                            </xml>
+                            <txt>Faire le point : Déterminer par l'observation des astres la position exacte d'un navire
+                                sur la mer.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    eau : Se dit d'un bateau dont la coque laisse passer l'eau.
+                                </i>
+                            </xml>
+                            <txt>Faire eau : Se dit d'un bateau dont la coque laisse passer l'eau.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    naufrage
+                                </i>
+                                .
+                            </xml>
+                            <txt>Faire naufrage.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    les vivres : Remplir un bateau de vivres.
+                                </i>
+                            </xml>
+                            <txt>Faire les vivres : Remplir un bateau de vivres.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="médecine"/>
+                            </labels>
+                            <xml><innerLink ref="atteindre">Être atteint</innerLink>, être <innerLink ref="malade">
+                                malade
+                            </innerLink> de, <innerLink ref="montrer">montrer</innerLink> les <innerLink ref="symptôme">
+                                symptôme</innerLink>s de.
+                            </xml>
+                            <txt>Être atteint, être malade de, montrer les symptômes de.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    de la neurasthénie.
+                                </i>
+                            </xml>
+                            <txt>Faire de la neurasthénie.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    de la température.
+                                </i>
+                            </xml>
+                            <txt>Faire de la température.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>faire</b>
+                                    de l'embonpoint, du diabète.
+                                </i>
+                            </xml>
+                            <txt>faire de l'embonpoint, du diabète.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="militaire"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="effectuer">Effectuer</innerLink>
+                                ce qui <innerLink ref="ordonner">est ordonné</innerLink>.
+                            </xml>
+                            <txt>Effectuer ce qui est ordonné.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    l'exercice, le guet, la ronde.
+                                </i>
+                            </xml>
+                            <txt>Faire l'exercice, le guet, la ronde.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    la revue d'une armée.
+                                </i>
+                            </xml>
+                            <txt>Faire la revue d'une armée.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="intransitif"/>
+                            </labels>
+                            <xml><innerLink ref="agir">Agir</innerLink>.
+                            </xml>
+                            <txt>Agir.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    bien, <b>faire</b> mal.
+                                </i>
+                            </xml>
+                            <txt>Faire bien, faire mal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>a fait</b> de son mieux ; il <b>a fait</b> mieux que lui.
+                                </i>
+                            </xml>
+                            <txt>Il a fait de son mieux ; il a fait mieux que lui.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Comment <b>faire</b> ?
+                                </i>
+                            </xml>
+                            <txt>Comment faire ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Laissez-le donc <b>faire</b>, il saura bien se tirer d'embarras.
+                                </i>
+                            </xml>
+                            <txt>Laissez-le donc faire, il saura bien se tirer d'embarras.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>a</b> tant <b>fait</b> qu'il en est venu à bout.
+                                </i>
+                            </xml>
+                            <txt>Il a tant fait qu'il en est venu à bout.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>a</b> si bien <b>fait</b> par ses sottises qu'on a fini par le renvoyer.
+                                </i>
+                            </xml>
+                            <txt>Il a si bien fait par ses sottises qu'on a fini par le renvoyer.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Si on le laisse <b>faire</b>, il sera bientôt maître de tout.
+                                </i>
+                            </xml>
+                            <txt>Si on le laisse faire, il sera bientôt maître de tout.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il y a fort à <b>faire</b> dans cette entreprise.
+                                </i>
+                            </xml>
+                            <txt>Il y a fort à faire dans cette entreprise.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="intransitif"/>
+                                <label type="diachronic" value="vieilli"/>
+                            </labels>
+                            <xml>Être <innerLink ref="convenable">convenable</innerLink>, <innerLink ref="produire">
+                                produire
+                            </innerLink> un
+                                <innerLink ref="effet">effet</innerLink>
+                                <innerLink ref="agréable">agréable</innerLink>
+                                (aujourd'hui, on utilise plutôt le verbe
+                                <i>
+                                    <innerLink ref="aller">aller</innerLink>
+                                </i>
+                                ).
+                            </xml>
+                            <txt>Être convenable, produire un effet agréable (aujourd'hui, on utilise plutôt le verbe
+                                aller).
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ces deux choses <b>font</b> fort bien ensemble.
+                                </i>
+                            </xml>
+                            <txt>Ces deux choses font fort bien ensemble.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>L'or <b>fait</b> bien avec le vert.
+                                </i>
+                            </xml>
+                            <txt>L'or fait bien avec le vert.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce tableau ne <b>fait</b> pas bien où il est ; il <b>ferait</b> mieux ailleurs.
+                                </i>
+                            </xml>
+                            <txt>Ce tableau ne fait pas bien où il est ; il ferait mieux ailleurs.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="intransitif"/>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>Se <innerLink ref="décharger">décharger</innerLink> le <innerLink ref="ventre">
+                                ventre</innerLink>, <innerLink ref="déféquer">déféquer</innerLink>.
+                            </xml>
+                            <txt>Se décharger le ventre, déféquer.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Cet enfant <b>a fait</b> dans sa chemise.
+                                </i>
+                            </xml>
+                            <txt>Cet enfant a fait dans sa chemise.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce malade <b>a fait</b> sous lui.
+                                </i>
+                            </xml>
+                            <txt>Ce malade a fait sous lui.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml><innerLink ref="devenir">Devenir</innerLink>, <innerLink ref="embrasser">embrasser
+                            </innerLink> une profession, une <innerLink ref="idée">idée</innerLink>, une <innerLink
+                                    ref="religion">religion</innerLink>.
+                            </xml>
+                            <txt>Devenir, embrasser une profession, une idée, une religion.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Le chien, qui <b>se faisait</b> vieux et n'aimait point à découcher, était, comme
+                                    d'habitude, rentré dès le premier soir et gardait le coin du feu, car on était en
+                                    hiver.
+                                </i>
+                            </xml>
+                            <txt>Le chien, qui se faisait vieux et n'aimait point à découcher, était, comme d'habitude,
+                                rentré dès le premier soir et gardait le coin du feu, car on était en hiver.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    communiste, curé, musulman, prêtre.
+                                </i>
+                            </xml>
+                            <txt>Se faire communiste, curé, musulman, prêtre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    beau, belle : Se préparer, se maquiller.
+                                </i>
+                            </xml>
+                            <txt>Se faire beau, belle : Se préparer, se maquiller.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>s'est fait</b> tout beau pour son mariage.
+                                </i>
+                            </xml>
+                            <txt>Il s'est fait tout beau pour son mariage.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>
+                                <i>Cet enfant commence à <b>se faire</b> grand.
+                                </i>
+                            </xml>
+                            <txt>Cet enfant commence à se faire grand.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>Indique une chose que l'on s'<innerLink ref="accorder">accorde</innerLink> ou que l'on
+                                s'<innerLink ref="imposer">impose</innerLink> à <innerLink ref="soi-même">
+                                    soi-même</innerLink>.
+                            </xml>
+                            <txt>Indique une chose que l'on s'accorde ou que l'on s'impose à soi-même.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    scrupule : Hésiter à faire quelque chose.
+                                </i>
+                            </xml>
+                            <txt>Se faire scrupule : Hésiter à faire quelque chose.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    conscience de…
+                                </i>
+                            </xml>
+                            <txt>Se faire conscience de…</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    gloire de quelque chose. : Tirer de la gloire d'une chose.
+                                </i>
+                            </xml>
+                            <txt>Se faire gloire de quelque chose. : Tirer de la gloire d'une chose.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    honneur de quelque chose : En tirer vanité, s'en sentir honoré.
+                                </i>
+                            </xml>
+                            <txt>Se faire honneur de quelque chose : En tirer vanité, s'en sentir honoré.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    une obligation, un devoir de… : S'obliger à…
+                                </i>
+                            </xml>
+                            <txt>Se faire une obligation, un devoir de… : S'obliger à…</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je <b>me fais</b> fort d'y arriver.
+                                </i>
+                            </xml>
+                            <txt>Je me fais fort d'y arriver.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>se fait</b> beaucoup plus malade qu'il ne l'est.
+                                </i>
+                            </xml>
+                            <txt>Il se fait beaucoup plus malade qu'il ne l'est.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    plus riche, plus pauvre, plus jeune qu'on ne l'est réellement.
+                                </i>
+                            </xml>
+                            <txt>Se faire plus riche, plus pauvre, plus jeune qu'on ne l'est réellement.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    une beauté : Se dit d'une personne qui se maquille ou qui s'apprête.
+                                </i>
+                            </xml>
+                            <txt>Se faire une beauté : Se dit d'une personne qui se maquille ou qui s'apprête.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>S'<innerLink ref="habituer">habituer</innerLink>, s'<innerLink ref="accoutumer">
+                                accoutumer
+                            </innerLink> à quelque chose.
+                            </xml>
+                            <txt>S'habituer, s'accoutumer à quelque chose.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    au bruit, à tout.
+                                </i>
+                            </xml>
+                            <txt>Se faire au bruit, à tout.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    aux manières de quelqu'un.
+                                </i>
+                            </xml>
+                            <txt>Se faire aux manières de quelqu'un.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    la main.
+                                </i>
+                            </xml>
+                            <txt>Se faire la main.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je crois que je ne <b>m'y ferai</b> jamais.
+                                </i>
+                            </xml>
+                            <txt>Je crois que je ne m'y ferai jamais.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>Se <innerLink ref="former">former</innerLink>.
+                            </xml>
+                            <txt>Se former.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>C'est un jeune homme qui <b>se fera</b> peu à peu.
+                                </i>
+                            </xml>
+                            <txt>C'est un jeune homme qui se fera peu à peu.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ces jeunes magistrats <b>se feront</b> par la pratique des affaires.
+                                </i>
+                            </xml>
+                            <txt>Ces jeunes magistrats se feront par la pratique des affaires.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ce vin n'a pas encore eu le temps de <b>se faire</b>.
+                                </i>
+                            </xml>
+                            <txt>Ce vin n'a pas encore eu le temps de se faire.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>Se <innerLink ref="créer">créer</innerLink>.
+                            </xml>
+                            <txt>Se créer.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    des amis, des relations, des ennemis, un nom, une situation…
+                                </i>
+                            </xml>
+                            <txt>Se faire des amis, des relations, des ennemis, un nom, une situation…</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>s'est fait</b> du tort à lui-même.
+                                </i>
+                            </xml>
+                            <txt>Il s'est fait du tort à lui-même.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>Être <innerLink ref="possible">possible</innerLink>, se <innerLink ref="produire">
+                                produire</innerLink>.
+                            </xml>
+                            <txt>Être possible, se produire.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Si c'est une chose qui puisse <b>se faire</b>, je vous en aurai obligation.
+                                </i>
+                            </xml>
+                            <txt>Si c'est une chose qui puisse se faire, je vous en aurai obligation.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Si cela peut <b>se faire</b>, j'en serai ravi.
+                                </i>
+                            </xml>
+                            <txt>Si cela peut se faire, j'en serai ravi.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ces choses-là ne <b>se font</b> pas aisément.
+                                </i>
+                            </xml>
+                            <txt>Ces choses-là ne se font pas aisément.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je crois que le mariage <b>se fera</b> bientôt.
+                                </i>
+                            </xml>
+                            <txt>Je crois que le mariage se fera bientôt.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il faut espérer que la paix <b>se fasse</b>.
+                                </i>
+                            </xml>
+                            <txt>Il faut espérer que la paix se fasse.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                            </labels>
+                            <xml>Être
+                                <innerLink ref="couramment">couramment</innerLink>
+                                <innerLink ref="pratiquer">pratiqué</innerLink>.
+                            </xml>
+                            <txt>Être couramment pratiqué.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Cela <b>se faisait</b> dans le temps.
+                                </i>
+                            </xml>
+                            <txt>Cela se faisait dans le temps.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ici, ce sont des choses qui <b>se font</b>.
+                                </i>
+                            </xml>
+                            <txt>Ici, ce sont des choses qui se font.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Le jaune <b>se fait</b> beaucoup cette année.
+                                </i>
+                            </xml>
+                            <txt>Le jaune se fait beaucoup cette année.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                                <label type="attitudinal" value="vulgaire"/>
+                            </labels>
+                            <xml>
+                                <innerLink ref="posséder">Posséder</innerLink>
+                                <innerLink ref="sexuellement">sexuellement</innerLink>.
+                            </xml>
+                            <txt>Posséder sexuellement.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Il <b>se fait</b> au moins trois nanas par semaine.
+                                </i>
+                            </xml>
+                            <txt>Il se fait au moins trois nanas par semaine.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>
+                                <i>Se le faire</i>
+                                ou <i>se la faire</i> : Finir par se montrer violent.
+                            </xml>
+                            <txt>Se le faire ou se la faire : Finir par se montrer violent.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Je vais <b>me le faire</b> s'il continue !
+                                </i>
+                            </xml>
+                            <txt>Je vais me le faire s'il continue !</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml>Indique un état météorologique.</xml>
+                            <txt>Indique un état météorologique.</txt>
+                        </gloss>
+                        <example>
+                            <xml>''Il <b>fait</b> beau, beau temps.
+                            </xml>
+                            <txt>Il fait beau, beau temps.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> bon.
+                                </i>
+                            </xml>
+                            <txt>Il fait bon.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> une chaleur épouvantable !
+                                </i>
+                            </xml>
+                            <txt>Il fait une chaleur épouvantable !</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> chaud, doux, frais, frisquet, froid.
+                                </i>
+                            </xml>
+                            <txt>Il fait chaud, doux, frais, frisquet, froid.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> un froid de canard.
+                                </i>
+                            </xml>
+                            <txt>Il fait un froid de canard.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> gris, humide.
+                                </i>
+                            </xml>
+                            <txt>Il fait gris, humide.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> jour, nuit.
+                                </i>
+                            </xml>
+                            <txt>Il fait jour, nuit.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> nuageux, sec, soleil.
+                                </i>
+                            </xml>
+                            <txt>Il fait nuageux, sec, soleil.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>fait</b> un temps de chien, un temps pourri.
+                                </i>
+                            </xml>
+                            <txt>Il fait un temps de chien, un temps pourri.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Quel temps <b>fait</b>-il aujourd'hui ?
+                                </i>
+                            </xml>
+                            <txt>Quel temps fait-il aujourd'hui ?</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml>S'emploie pour <innerLink ref="marquer">marquer</innerLink> la <innerLink ref="nature">
+                                nature</innerLink>, l'<innerLink ref="état">état</innerLink>, la <innerLink
+                                    ref="disposition">disposition
+                            </innerLink> ou les <innerLink ref="qualité">qualité</innerLink>s de certaines choses.
+                            </xml>
+                            <txt>S'emploie pour marquer la nature, l'état, la disposition ou les qualités de certaines
+                                choses.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Dehors, on n'entendait rien ; le feu pétillait sur l'âtre. Il <b>faisait</b> bien bon
+                                    dans cette grande cuisine, […].
+                                </i>
+                            </xml>
+                            <txt>Dehors, on n'entendait rien ; le feu pétillait sur l'âtre. Il faisait bien bon dans
+                                cette grande cuisine, […].
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>''Il <b>fait</b> bon vivre dans ce pays.
+                            </xml>
+                            <txt>Il fait bon vivre dans ce pays.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il ne <b>fait</b> pas bon de se frotter à cet homme-là.
+                                </i>
+                            </xml>
+                            <txt>Il ne fait pas bon de se frotter à cet homme-là.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml>Être la <innerLink ref="cause">cause</innerLink>.
+                            </xml>
+                            <txt>Être la cause.</txt>
+                        </gloss>
+                        <example>
+                            <xml>''Ça <b>fait</b> du bien.
+                            </xml>
+                            <txt>Ça fait du bien.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ça <b>fait</b> peur.
+                                </i>
+                            </xml>
+                            <txt>Ça fait peur.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ça <b>fait</b> pitié…
+                                </i>
+                            </xml>
+                            <txt>Ça fait pitié…</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml><innerLink ref="y avoir">Y avoir</innerLink>.
+                            </xml>
+                            <txt>Y avoir.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Ça <b>fait</b> longtemps que je ne l'ai vu.
+                                </i>
+                            </xml>
+                            <txt>Ça fait longtemps que je ne l'ai vu.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml><innerLink ref="arriver">Arriver</innerLink>.
+                            </xml>
+                            <txt>Arriver.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Il <b>s'est fait</b> beaucoup de fentes dans cette muraille.
+                                </i>
+                            </xml>
+                            <txt>Il s'est fait beaucoup de fentes dans cette muraille.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>se fit</b> un moment de silence.
+                                </i>
+                            </xml>
+                            <txt>Il se fit un moment de silence.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>se fait</b> bien des choses qu'on s'explique mal.
+                                </i>
+                            </xml>
+                            <txt>Il se fait bien des choses qu'on s'explique mal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>On ne sait comment cela <b>s'est fait</b>.
+                                </i>
+                            </xml>
+                            <txt>On ne sait comment cela s'est fait.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Comment peut-il <b>se faire</b> que vous n'en sachiez rien ?
+                                </i>
+                            </xml>
+                            <txt>Comment peut-il se faire que vous n'en sachiez rien ?</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="gram" value="pronominal"/>
+                                <label type="other" value="emploi"/>
+                            </labels>
+                            <xml>Être <innerLink ref="convenable">convenable</innerLink>. -
+                            </xml>
+                            <txt>Être convenable. -</txt>
+                        </gloss>
+                        <example>
+                            <xml>''Vous auriez dû envoyer une carte, cela <b>se fait</b> toujours.
+                            </xml>
+                            <txt>Vous auriez dû envoyer une carte, cela se fait toujours.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Dites-moi, je vous prie, ce qui <b>se fait</b> en pareille circonstance.
+                                </i>
+                            </xml>
+                            <txt>Dites-moi, je vous prie, ce qui se fait en pareille circonstance.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>
+                                <innerLink ref="commencer">Commencer</innerLink>
+                                à <innerLink ref="être">être</innerLink>.
+                            </xml>
+                            <txt>Commencer à être.</txt>
+                        </gloss>
+                        <example>
+                            <xml>''Il <b>se fait</b> tard.
+                            </xml>
+                            <txt>Il se fait tard.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il <b>se fait</b> vieux.
+                                </i>
+                            </xml>
+                            <txt>Il se fait vieux.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Aux formes simple ou pronominale (se faire), peut être <innerLink ref="auxiliaire">
+                                auxiliaire
+                            </innerLink> de <innerLink ref="mode">mode</innerLink> et se construire avec un <innerLink
+                                    ref="infinitif">infinitif
+                            </innerLink> pour <innerLink ref="signifier">signifier</innerLink> : être la <innerLink
+                                    ref="cause">cause
+                            </innerLink> (<innerLink ref="proche">proche</innerLink> ou <innerLink ref="lointain">
+                                lointain</innerLink>e) de quelque chose ou d'une <innerLink ref="action">
+                                action</innerLink>. Le sujet du verbe à l'infinitif peut être exprimé dans la phrase ou
+                                être absent de la phrase. De même, le complément d'objet du verbe à l'infinitif n'est
+                                pas toujours exprimé.
+                            </xml>
+                            <txt>Aux formes simple ou pronominale (se faire), peut être auxiliaire de mode et se
+                                construire avec un infinitif pour signifier : être la cause (proche ou lointaine) de
+                                quelque chose ou d'une action. Le sujet du verbe à l'infinitif peut être exprimé dans la
+                                phrase ou être absent de la phrase. De même, le complément d'objet du verbe à
+                                l'infinitif n'est pas toujours exprimé.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Les maquignons <b>se font</b> craindre des animaux les plus revêches et savent
+                                    réveiller les plus paresseux pour si peu qu'ils aient séjourné dans leurs écuries.
+                                </i>
+                            </xml>
+                            <txt>Les maquignons se font craindre des animaux les plus revêches et savent réveiller les
+                                plus paresseux pour si peu qu'ils aient séjourné dans leurs écuries.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Alors tout le monde aurait su ce que l'on a tenté si longtemps de nous cacher : notre
+                                    carte bancaire à puce est bel et bien piratable, quoi que l'on ait voulu nous <b>
+                                        faire
+                                    </b> croire !
+                                </i>
+                            </xml>
+                            <txt>Alors tout le monde aurait su ce que l'on a tenté si longtemps de nous cacher : notre
+                                carte bancaire à puce est bel et bien piratable, quoi que l'on ait voulu nous faire
+                                croire !
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>L'opium <b>fait</b> dormir.
+                                </i>
+                                [sujet de <i>dormir</i> non exprimé]
+                            </xml>
+                            <txt>L'opium fait dormir. [sujet de dormir non exprimé]</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est ce qui le <b>fait</b> vivre.
+                                </i>
+                            </xml>
+                            <txt>C'est ce qui le fait vivre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    agir des personnes puissantes.
+                                </i>
+                                [sujet d'<i>agir</i> exprimé]
+                            </xml>
+                            <txt>Faire agir des personnes puissantes. [sujet dagir exprimé]</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    dire, <b>faire</b> savoir quelque chose à quelqu'un.
+                                </i>
+                                [compléments d'objet direct et indirect exprimés]
+                            </xml>
+                            <txt>Faire dire, faire savoir quelque chose à quelqu'un. [compléments d'objet direct et
+                                indirect exprimés]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>C'est moi qui le lui <b>ai fait</b> connaître.
+                                </i>
+                                [complément d'objet direct de <i>connaître</i> exprimé]
+                            </xml>
+                            <txt>C'est moi qui le lui ai fait connaître. [complément d'objet direct de connaître
+                                exprimé]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    construire une maison par un architecte.
+                                </i>
+                                [sujet introduit par <i>par</i>]
+                            </xml>
+                            <txt>Faire construire une maison par un architecte. [sujet introduit par par]</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Je les <b>ai fait</b> chercher partout.
+                                </i>
+                            </xml>
+                            <txt>Je les ai fait chercher partout.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Se <b>faire faire</b> un habit.
+                                </i>
+                            </xml>
+                            <txt>Se faire faire un habit.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    imprimer, <b>faire</b> paraître un livre.
+                                </i>
+                            </xml>
+                            <txt>Faire imprimer, faire paraître un livre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>La partie civile l'<b>a fait</b> condamner aux dépens.
+                                </i>
+                                [complément d'objet indirect de <i>condamner</i> exprimé]
+                            </xml>
+                            <txt>La partie civile l'a fait condamner aux dépens. [complément d'objet indirect de
+                                condamner exprimé]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cela me <b>fait</b> penser à quelque chose.
+                                </i>
+                                [complément d'objet indirect de <i>penser</i> exprimé]
+                            </xml>
+                            <txt>Cela me fait penser à quelque chose. [complément d'objet indirect de penser exprimé]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Faire</b>
+                                    entrer, <b>faire</b> sortir quelqu'un.
+                                </i>
+                            </xml>
+                            <txt>Faire entrer, faire sortir quelqu'un.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il m'<b>a fait</b> parvenir un colis.
+                                </i>
+                            </xml>
+                            <txt>Il m'a fait parvenir un colis.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cette pièce <b>a fait</b> courir tout Paris.
+                                </i>
+                            </xml>
+                            <txt>Cette pièce a fait courir tout Paris.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il ne put parvenir à <b>se faire</b> entendre.
+                                </i>
+                            </xml>
+                            <txt>Il ne put parvenir à se faire entendre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    aduler, aimer, craindre, détester, haïr.
+                                </i>
+                                [réfléchi direct]
+                            </xml>
+                            <txt>Se faire aduler, aimer, craindre, détester, haïr. [réfléchi direct]</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Se faire</b>
+                                    couler un bain.
+                                </i>
+                                [réfléchi indirect]
+                            </xml>
+                            <txt>Se faire couler un bain. [réfléchi indirect]</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Faire dire quelque chose à quelqu'un</i>
+                                : Lui attribuer des paroles qui ne sont pas les siennes.
+                            </xml>
+                            <txt>Faire dire quelque chose à quelqu'un : Lui attribuer des paroles qui ne sont pas les
+                                siennes.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Ne me <b>faites</b> pas dire ce que je n'ai pas dit !
+                                </i>
+                            </xml>
+                            <txt>Ne me faites pas dire ce que je n'ai pas dit !</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Expressions qui veulent toutes dire la même chose : laisse-moi tranquille.</xml>
+                            <txt>Expressions qui veulent toutes dire la même chose : laisse-moi tranquille.</txt>
+                        </gloss>
+                        <example>
+                            <labels>
+                                <label type="attitudinal" value="familier"/>
+                            </labels>
+                            <xml>
+                                <i>Va te <b>faire</b> cuire un œuf.
+                                </i>
+                            </xml>
+                            <txt>Va te faire cuire un œuf.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="attitudinal" value="vulgaire"/>
+                            </labels>
+                            <xml>
+                                <i>Va te <b>faire</b> enculer.
+                                </i>
+                            </xml>
+                            <txt>Va te faire enculer.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="attitudinal" value="vulgaire"/>
+                            </labels>
+                            <xml>
+                                <i>Va te <b>faire</b> foutre.
+                                </i>
+                            </xml>
+                            <txt>Va te faire foutre.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Va te <b>faire</b> pendre ailleurs.
+                                </i>
+                            </xml>
+                            <txt>Va te faire pendre ailleurs.</txt>
+                        </example>
+                        <example>
+                            <labels>
+                                <label type="attitudinal" value="vulgaire"/>
+                            </labels>
+                            <xml>
+                                <i>Va te <b>faire</b> voir.
+                                </i>
+                            </xml>
+                            <txt>Va te faire voir.</txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="morpho">
+                    <item type="derivative">aller se faire</item>
+                    <item type="derivative">aller se faire fiche</item>
+                    <item type="derivative">aller se faire mettre</item>
+                    <item type="derivative">aller se faire voir ailleurs</item>
+                    <item type="derivative">aussitôt dit, aussitôt fait</item>
+                    <item type="derivative">avoir fait son temps</item>
+                    <item type="derivative">avoir fort à faire</item>
+                    <item type="derivative">avoir une piastre à faire</item>
+                    <item type="derivative">bonne à tout faire</item>
+                    <item type="derivative">c'en est fait de</item>
+                    <item type="derivative">ce faisant</item>
+                    <item type="derivative">ce qui fait que</item>
+                    <item type="derivative">cela fait</item>
+                    <item type="derivative">chemin faisant</item>
+                    <item type="derivative">en faire autant</item>
+                    <item type="derivative">en faire tout un plat</item>
+                    <item type="derivative">en faire trop</item>
+                    <item type="derivative">en faire voir de toutes les couleurs</item>
+                    <item type="derivative">en faire un pataquès</item>
+                    <item type="derivative">en faire une maladie</item>
+                    <item type="derivative">être bien fait</item>
+                    <item type="derivative">être fait comme un rat</item>
+                    <item type="derivative">être fait pour</item>
+                    <item type="derivative">faire abstraction</item>
+                    <item type="derivative">faire acte d'autorité</item>
+                    <item type="derivative">faire acte de candidature</item>
+                    <item type="derivative">faire acte de clémence</item>
+                    <item type="derivative">faire acte de présence</item>
+                    <item type="derivative">faire alliance</item>
+                    <item type="derivative">faire amende honorable</item>
+                    <item type="derivative">faire appel</item>
+                    <item type="derivative">faire assaut</item>
+                    <item type="derivative">faire attention</item>
+                    <item type="derivative">faire autorité</item>
+                    <item type="derivative">faire avancer le schmilblick</item>
+                    <item type="derivative">faire banco</item>
+                    <item type="derivative">faire bande à part</item>
+                    <item type="derivative">faire banqueroute</item>
+                    <item type="derivative">faire basket</item>
+                    <item type="derivative">faire bien de</item>
+                    <item type="derivative">faire bisquer</item>
+                    <item type="derivative">faire bombance</item>
+                    <item type="derivative">faire bon accueil</item>
+                    <item type="derivative">faire bon ménage</item>
+                    <item type="derivative">faire bonne chère</item>
+                    <item type="derivative">faire bonne contenance</item>
+                    <item type="derivative">faire bouillir la marmite</item>
+                    <item type="derivative">faire boule de neige</item>
+                    <item type="derivative">faire bronzette</item>
+                    <item type="derivative">faire caca</item>
+                    <item type="derivative">faire cadeau</item>
+                    <item type="derivative">faire carrière</item>
+                    <item type="derivative">faire cas</item>
+                    <item type="derivative">faire cause commune</item>
+                    <item type="derivative">faire cavalier seul</item>
+                    <item type="derivative">faire ceinture</item>
+                    <item type="derivative">faire chanter</item>
+                    <item type="derivative">faire chaud au cœur</item>
+                    <item type="derivative">faire chou blanc</item>
+                    <item type="derivative">faire claquer son fouet</item>
+                    <item type="derivative">faire cocu</item>
+                    <item type="derivative">faire comme chez soi</item>
+                    <item type="derivative">faire comme si</item>
+                    <item type="derivative">faire confiance</item>
+                    <item type="derivative">faire contre mauvaise fortune bon cœur</item>
+                    <item type="derivative">faire corps</item>
+                    <item type="derivative">faire coup double</item>
+                    <item type="derivative">faire crédit</item>
+                    <item type="derivative">faire d'une chose comme des choux de son jardin</item>
+                    <item type="derivative">faire d'une mouche un éléphant</item>
+                    <item type="derivative">faire d'une pierre deux coups</item>
+                    <item type="derivative">faire dans son froc</item>
+                    <item type="derivative">faire dans son pantalon</item>
+                    <item type="derivative">faire danser l'anse du panier</item>
+                    <item type="derivative">faire de l'eau</item>
+                    <item type="derivative">faire de l'esbroufe</item>
+                    <item type="derivative">faire de l'esprit</item>
+                    <item type="derivative">faire de l'œil</item>
+                    <item type="derivative">faire de l'or en barre</item>
+                    <item type="derivative">faire de la peine</item>
+                    <item type="derivative">faire de vieux os</item>
+                    <item type="derivative">faire défaut</item>
+                    <item type="derivative">faire demi-tour</item>
+                    <item type="derivative">faire des avances</item>
+                    <item type="derivative">faire des étincelles</item>
+                    <item type="derivative">faire des façons</item>
+                    <item type="derivative">faire des folies</item>
+                    <item type="derivative">faire des gammes</item>
+                    <item type="derivative">faire des gorges chaudes</item>
+                    <item type="derivative">faire des histoires</item>
+                    <item type="derivative">faire des messes basses</item>
+                    <item type="derivative">faire des petits</item>
+                    <item type="derivative">faire des pieds et des mains</item>
+                    <item type="derivative">faire des remontrances</item>
+                    <item type="derivative">faire des ronds dans l'eau</item>
+                    <item type="derivative">faire des ronds de jambe</item>
+                    <item type="derivative">faire des salades</item>
+                    <item type="derivative">faire des siennes</item>
+                    <item type="derivative">faire des yeux de merlan frit</item>
+                    <item type="derivative">faire devenir chèvre</item>
+                    <item type="derivative">faire diligence</item>
+                    <item type="derivative">faire diversion</item>
+                    <item type="derivative">faire dodo</item>
+                    <item type="derivative">faire don</item>
+                    <item type="derivative">faire dresser les oreilles</item>
+                    <item type="derivative">faire du coude à coude</item>
+                    <item type="derivative">faire du coude</item>
+                    <item type="derivative">faire du genou</item>
+                    <item type="derivative">faire du mal</item>
+                    <item type="derivative">faire du pied</item>
+                    <item type="derivative">faire du pouce</item>
+                    <item type="derivative">faire du reuz</item>
+                    <item type="derivative">faire du sale boulot</item>
+                    <item type="derivative">faire du tort</item>
+                    <item type="derivative">faire du zèle</item>
+                    <item type="derivative">faire dur</item>
+                    <item type="derivative">faire eau</item>
+                    <item type="derivative">faire école</item>
+                    <item type="derivative">faire effet</item>
+                    <item type="derivative">faire en sorte que</item>
+                    <item type="derivative">faire entendre raison</item>
+                    <item type="derivative">faire entrer en ligne de compte</item>
+                    <item type="derivative">faire envie</item>
+                    <item type="derivative">faire éruption</item>
+                    <item type="derivative">faire escale</item>
+                    <item type="derivative">faire étalage</item>
+                    <item type="derivative">faire face</item>
+                    <item type="derivative">faire faillite</item>
+                    <item type="derivative">faire Fanny</item>
+                    <item type="derivative">faire fausse queue</item>
+                    <item type="derivative">faire fausse route</item>
+                    <item type="derivative">faire faux-bond</item>
+                    <item type="derivative">faire flanelle</item>
+                    <item type="derivative">faire feu de tout bois</item>
+                    <item type="derivative">faire feu vif</item>
+                    <item type="derivative">faire feu</item>
+                    <item type="derivative">faire fi de</item>
+                    <item type="derivative">faire fissa</item>
+                    <item type="derivative">faire flèche de tout bois</item>
+                    <item type="derivative">faire florès</item>
+                    <item type="derivative">faire foi</item>
+                    <item type="derivative">faire fortune</item>
+                    <item type="derivative">faire grâce</item>
+                    <item type="derivative">faire grand bruit</item>
+                    <item type="derivative">faire grief</item>
+                    <item type="derivative">faire grise mine</item>
+                    <item type="derivative">faire halte</item>
+                    <item type="derivative">faire hommage à la table</item>
+                    <item type="derivative">faire honneur</item>
+                    <item type="derivative">faire honte</item>
+                    <item type="derivative">faire impression</item>
+                    <item type="derivative">faire irruption</item>
+                    <item type="derivative">faire joujou</item>
+                    <item type="derivative">faire justice soi-même</item>
+                    <item type="derivative">faire l'amour</item>
+                    <item type="derivative">faire l'andouille</item>
+                    <item type="derivative">faire l'appel</item>
+                    <item type="derivative">faire l'appoint</item>
+                    <item type="derivative">faire l'aumône</item>
+                    <item type="derivative">faire l'école buissonnière</item>
+                    <item type="derivative">faire l'idiot</item>
+                    <item type="derivative">faire l'imbécile</item>
+                    <item type="derivative">faire la bombe</item>
+                    <item type="derivative">faire la bouche en cœur</item>
+                    <item type="derivative">faire la bringue</item>
+                    <item type="derivative">faire la cane</item>
+                    <item type="derivative">faire la chaîne</item>
+                    <item type="derivative">faire la charité</item>
+                    <item type="derivative">faire la chasse</item>
+                    <item type="derivative">faire la chose</item>
+                    <item type="derivative">faire la connaissance</item>
+                    <item type="derivative">faire la coquette</item>
+                    <item type="derivative">faire la cour</item>
+                    <item type="derivative">faire la course</item>
+                    <item type="derivative">faire la courte échelle</item>
+                    <item type="derivative">faire la couverture</item>
+                    <item type="derivative">faire la cuisine</item>
+                    <item type="derivative">faire la différence</item>
+                    <item type="derivative">faire le difficile</item>
+                    <item type="derivative">faire la fête</item>
+                    <item type="derivative">faire la file</item>
+                    <item type="derivative">faire la fine bouche</item>
+                    <item type="derivative">faire la figue à</item>
+                    <item type="derivative">faire la foire</item>
+                    <item type="derivative">faire la grasse matinée</item>
+                    <item type="derivative">faire la grimace</item>
+                    <item type="derivative">faire la gueule</item>
+                    <item type="derivative">faire la java</item>
+                    <item type="derivative">faire la lecture</item>
+                    <item type="derivative">faire la lessive</item>
+                    <item type="derivative">faire la lumière sur</item>
+                    <item type="derivative">faire la noce</item>
+                    <item type="derivative">faire la lippe</item>
+                    <item type="derivative">faire la loi</item>
+                    <item type="derivative">faire la lumière sur</item>
+                    <item type="derivative">faire la maligne</item>
+                    <item type="derivative">faire la manche</item>
+                    <item type="derivative">faire la minette</item>
+                    <item type="derivative">faire la moisson</item>
+                    <item type="derivative">faire la monnaie</item>
+                    <item type="derivative">faire la morale</item>
+                    <item type="derivative">faire la moue</item>
+                    <item type="derivative">faire la navette</item>
+                    <item type="derivative">faire la nique</item>
+                    <item type="derivative">faire la noce</item>
+                    <item type="derivative">faire la paix</item>
+                    <item type="derivative">faire la Pâque</item>
+                    <item type="derivative">pâque</item>
+                    <item type="derivative">faire la part des choses</item>
+                    <item type="derivative">faire la peau</item>
+                    <item type="derivative">faire la pote</item>
+                    <item type="derivative">faire la poudrette</item>
+                    <item type="derivative">faire la pluie et le beau temps</item>
+                    <item type="derivative">faire la quête</item>
+                    <item type="derivative">faire la queue</item>
+                    <item type="derivative">faire la roue</item>
+                    <item type="derivative">faire la rue Michel</item>
+                    <item type="derivative">faire la rue Thubaneau</item>
+                    <item type="derivative">faire la sourde oreille</item>
+                    <item type="derivative">faire la tête</item>
+                    <item type="derivative">faire la tête au carré</item>
+                    <item type="derivative">faire la tournée des grands ducs</item>
+                    <item type="derivative">faire la tronche</item>
+                    <item type="derivative">faire la une</item>
+                    <item type="derivative">faire la vaisselle</item>
+                    <item type="derivative">faire la valise</item>
+                    <item type="derivative">faire la vie dure</item>
+                    <item type="derivative">faire le barbot</item>
+                    <item type="derivative">faire le beau</item>
+                    <item type="derivative">faire le bourdon</item>
+                    <item type="derivative">faire le cake</item>
+                    <item type="derivative">faire le carême</item>
+                    <item type="derivative">faire le clown</item>
+                    <item type="derivative">faire le con</item>
+                    <item type="derivative">faire le coq</item>
+                    <item type="derivative">faire le coup de fusil</item>
+                    <item type="derivative">faire le coup de poing</item>
+                    <item type="derivative">faire le deuil</item>
+                    <item type="derivative">faire le difficile</item>
+                    <item type="derivative">faire le dos rond</item>
+                    <item type="derivative">faire-le-faut</item>
+                    <item type="derivative">faire le faut</item>
+                    <item type="derivative">faire le fou</item>
+                    <item type="derivative">faire le Gilles</item>
+                    <item type="derivative">faire le gros dos</item>
+                    <item type="derivative">faire le jacques</item>
+                    <item type="derivative">faire le joli cœur</item>
+                    <item type="derivative">faire le kéké</item>
+                    <item type="derivative">faire le lézard</item>
+                    <item type="derivative">faire le lien</item>
+                    <item type="derivative">faire le lit</item>
+                    <item type="derivative">faire le malin</item>
+                    <item type="derivative">faire le mariole</item>
+                    <item type="derivative">faire le marmiton</item>
+                    <item type="derivative">faire le ménage</item>
+                    <item type="derivative">faire le mort</item>
+                    <item type="derivative">faire le mur</item>
+                    <item type="derivative">faire le nord</item>
+                    <item type="derivative">faire le paon</item>
+                    <item type="derivative">faire le pied de grue</item>
+                    <item type="derivative">faire le pitre</item>
+                    <item type="derivative">faire le plein</item>
+                    <item type="derivative">faire le pli</item>
+                    <item type="derivative">faire le poids</item>
+                    <item type="derivative">faire le poil</item>
+                    <item type="derivative">faire le point</item>
+                    <item type="derivative">faire le poireau</item>
+                    <item type="derivative">faire le pont</item>
+                    <item type="derivative">faire le premier pas</item>
+                    <item type="derivative">faire le rat mort</item>
+                    <item type="derivative">faire le sale boulot</item>
+                    <item type="derivative">faire le tapin</item>
+                    <item type="derivative">faire le tigre</item>
+                    <item type="derivative">faire le tour du propriétaire</item>
+                    <item type="derivative">faire le trottoir</item>
+                    <item type="derivative">faire le trou</item>
+                    <item type="derivative">faire le zèbre</item>
+                    <item type="derivative">faire le zouave</item>
+                    <item type="derivative">faire les choses à moitié</item>
+                    <item type="derivative">faire les quatre cents coups</item>
+                    <item type="derivative">faire les courses</item>
+                    <item type="derivative">faire les foins</item>
+                    <item type="derivative">faire les frais</item>
+                    <item type="derivative">faire les gros yeux</item>
+                    <item type="derivative">faire les cornes à</item>
+                    <item type="derivative">faire les poches</item>
+                    <item type="derivative">faire les poubelles</item>
+                    <item type="derivative">faire les vendanges</item>
+                    <item type="derivative">faire les yeux doux</item>
+                    <item type="derivative">faire les yeux ronds</item>
+                    <item type="derivative">faire long feu</item>
+                    <item type="derivative">faire machine arrière</item>
+                    <item type="derivative">faire main basse</item>
+                    <item type="derivative">faire mal</item>
+                    <item type="derivative">faire marcher</item>
+                    <item type="derivative">faire mauvais accueil</item>
+                    <item type="derivative">faire mention de</item>
+                    <item type="derivative">faire mieux de</item>
+                    <item type="derivative">faire mine de</item>
+                    <item type="derivative">faire miroiter</item>
+                    <item type="derivative">faire montre de</item>
+                    <item type="derivative">faire mouche</item>
+                    <item type="derivative">faire naufrage</item>
+                    <item type="derivative">faire obstruction</item>
+                    <item type="derivative">faire office de</item>
+                    <item type="derivative">faire opposition</item>
+                    <item type="derivative">faire panpan cucul</item>
+                    <item type="derivative">faire parler la poudre</item>
+                    <item type="derivative">faire part</item>
+                    <item type="derivative">faire partie</item>
+                    <item type="derivative">faire passer l'envie de quelque chose</item>
+                    <item type="derivative">faire patte de velours</item>
+                    <item type="derivative">faire peau neuve</item>
+                    <item type="derivative">faire peine</item>
+                    <item type="derivative">faire pencher la balance</item>
+                    <item type="derivative">faire pénitence</item>
+                    <item type="derivative">faire peur</item>
+                    <item type="derivative">faire pipi</item>
+                    <item type="derivative">faire pitié</item>
+                    <item type="derivative">faire place nette</item>
+                    <item type="derivative">faire place</item>
+                    <item type="derivative">faire place nette</item>
+                    <item type="derivative">faire plaisir</item>
+                    <item type="derivative">faire pleurer le colosse</item>
+                    <item type="derivative">faire porter le chapeau</item>
+                    <item type="derivative">faire prendre le change</item>
+                    <item type="derivative">faire que fou</item>
+                    <item type="derivative">faire que sage</item>
+                    <item type="derivative">faire rage</item>
+                    <item type="derivative">faire référence à</item>
+                    <item type="derivative">faire revenir</item>
+                    <item type="derivative">faire ripaille</item>
+                    <item type="derivative">faire risette</item>
+                    <item type="derivative">faire route</item>
+                    <item type="derivative">faire sa tête</item>
+                    <item type="derivative">faire sa valise</item>
+                    <item type="derivative">faire salle comble</item>
+                    <item type="derivative">faire sauter la grenouille</item>
+                    <item type="derivative">faire semblant</item>
+                    <item type="derivative">faire sensation</item>
+                    <item type="derivative">faire ses dents</item>
+                    <item type="derivative">faire ses humanités</item>
+                    <item type="derivative">faire ses lacets</item>
+                    <item type="derivative">faire ses valises</item>
+                    <item type="derivative">faire silence</item>
+                    <item type="derivative">faire ses choux gras</item>
+                    <item type="derivative">faire son âge</item>
+                    <item type="derivative">faire son beurre</item>
+                    <item type="derivative">faire son deuil</item>
+                    <item type="derivative">faire son trou</item>
+                    <item type="derivative">faire suer le burnous</item>
+                    <item type="derivative">faire surface</item>
+                    <item type="derivative">faire table rase</item>
+                    <item type="derivative">faire tache d'encre</item>
+                    <item type="derivative">faire tache d'huile</item>
+                    <item type="derivative">faire tête</item>
+                    <item type="derivative">faire tilt</item>
+                    <item type="derivative">faire tourner en bourrique</item>
+                    <item type="derivative">faire tourner chèvre</item>
+                    <item type="derivative">faire trempette</item>
+                    <item type="derivative">faire un bail</item>
+                    <item type="derivative">faire un bide</item>
+                    <item type="derivative">faire un crime</item>
+                    <item type="derivative">faire un enfant</item>
+                    <item type="derivative">faire un enfant dans le dos</item>
+                    <item type="derivative">faire un faux pas</item>
+                    <item type="derivative">faire un four</item>
+                    <item type="derivative">faire un grand pas</item>
+                    <item type="derivative">faire un malheur</item>
+                    <item type="derivative">faire un marché</item>
+                    <item type="derivative">faire un prix</item>
+                    <item type="derivative">faire un sale boulot</item>
+                    <item type="derivative">faire un saut</item>
+                    <item type="derivative">faire un tabac</item>
+                    <item type="derivative">faire un tonneau</item>
+                    <item type="derivative">faire un tour</item>
+                    <item type="derivative">faire une corne à un livre</item>
+                    <item type="derivative">faire une croix</item>
+                    <item type="derivative">faire une croix sur</item>
+                    <item type="derivative">faire une fleur</item>
+                    <item type="derivative">faire une main</item>
+                    <item type="derivative">faire une montagne</item>
+                    <item type="derivative">faire une passe</item>
+                    <item type="derivative">faire une partie de jambes en l'air</item>
+                    <item type="derivative">faire une queue de poisson</item>
+                    <item type="derivative">faire usage</item>
+                    <item type="derivative">faire vivre</item>
+                    <item type="derivative">faire voile</item>
+                    <item type="derivative">fasse le ciel que</item>
+                    <item type="derivative">homme à tout faire</item>
+                    <item type="derivative">il pourrait bien se faire que</item>
+                    <item type="derivative">laissez-faire</item>
+                    <item type="derivative">le faire</item>
+                    <item type="derivative">la faire</item>
+                    <item type="derivative">le faire à</item>
+                    <item type="derivative">manger à s'en faire péter la sous-ventrière</item>
+                    <item type="derivative">n'avoir que faire</item>
+                    <item type="derivative">n'en faire qu'à sa tête</item>
+                    <item type="derivative">n'en rien faire</item>
+                    <item type="derivative">ne faire ni chaud ni froid</item>
+                    <item type="derivative">ne faire que</item>
+                    <item type="derivative">ne pas faire dans la dentelle</item>
+                    <item type="derivative">ne pas faire long feu</item>
+                    <item type="derivative">ne pas faire de mal à une mouche</item>
+                    <item type="derivative">ne pas faire de quartier</item>
+                    <item type="derivative">ne pas faire de vieux os</item>
+                    <item type="derivative">ne rien faire de ses dix doigts</item>
+                    <item type="derivative">phrase toute faite</item>
+                    <item type="derivative">rien à faire</item>
+                    <item type="derivative">s'en faire</item>
+                    <item type="derivative">savoir y faire</item>
+                    <item type="derivative">se faire appeler Arthur</item>
+                    <item type="derivative">se faire brasser le Canayen</item>
+                    <item type="derivative">se faire carotte</item>
+                    <item type="derivative">se faire des cheveux blancs</item>
+                    <item type="derivative">se faire des couilles en or</item>
+                    <item type="derivative">se faire des fausses idées</item>
+                    <item type="derivative">se faire des films</item>
+                    <item type="derivative">se faire du mouron</item>
+                    <item type="derivative">se faire du mauvais sang</item>
+                    <item type="derivative">se faire fort</item>
+                    <item type="derivative">se faire frotter les oreilles</item>
+                    <item type="derivative">se faire jour</item>
+                    <item type="derivative">se faire hacher en pièces</item>
+                    <item type="derivative">se faire la main</item>
+                    <item type="derivative">se faire la malle</item>
+                    <item type="derivative">se faire manger la cenne</item>
+                    <item type="derivative">se faire péter la sous-ventrière</item>
+                    <item type="derivative">se faire remonter les bretelles</item>
+                    <item type="derivative">se faire son cinéma</item>
+                    <item type="derivative">se faire taper sur les doigts</item>
+                    <item type="derivative">se faire tirer l'oreille</item>
+                    <item type="derivative">se faire tirer les oreilles</item>
+                    <item type="derivative">se faire une raison</item>
+                    <item type="derivative">se faire une toile</item>
+                    <item type="derivative">se laisser faire</item>
+                    <item type="derivative">si fait</item>
+                    <item type="derivative">sitôt dit, sitôt fait</item>
+                    <item type="derivative">tant qu'à faire</item>
+                    <item type="derivative">tous les jours que Dieu fait</item>
+                    <item type="derivative">trop en faire</item>
+                    <item type="derivative">vite fait, bien fait</item>
+                    <item type="derivative">y faire</item>
+                </subsection>
+                <subsection type="phrases">
+                    <item>bien faire et laisser dire</item>
+                    <item>bien faire et laisser braire</item>
+                    <item>ça commence à bien faire</item>
+                    <item>c'est ni fait ni à faire</item>
+                    <item>ce qui est fait est fait</item>
+                    <item>cela m'en touche une sans faire bouger l'autre</item>
+                    <item>cela va faire du bruit dans Landerneau</item>
+                    <item>comme on fait son lit, on se couche</item>
+                    <item>fais ce que dois, advienne que pourra</item>
+                    <item>l'habit ne fait pas le moine</item>
+                    <item>l'occasion fait le larron</item>
+                    <item>le diable ne lui ferait pas faire ceci</item>
+                    <item>ne fais pas à autrui ce que tu ne voudrais pas qu'on te fît</item>
+                    <item>on ne saurait faire d'une buse un épervier</item>
+                    <item>Paris ne s'est pas fait en un jour</item>
+                    <item>petit à petit, l'oiseau fait son nid</item>
+                    <item>qui veut faire l'ange fait la bête</item>
+                </subsection>
+                <translations>
+                    <trans lang="af">maak</trans>
+                    <trans lang="de">machen</trans>
+                    <trans lang="de">tun</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="bm">kɛ</trans>
+                    <trans lang="ca">fer</trans>
+                    <trans lang="es">hacer</trans>
+                    <trans lang="eo">fari</trans>
+                    <trans lang="fi">tehdä</trans>
+                    <trans lang="gd">dèan</trans>
+                    <trans lang="el">κάνω</trans>
+                    <trans lang="it">fare</trans>
+                    <trans lang="kk">жасау</trans>
+                    <trans lang="kk">істеу</trans>
+                    <trans lang="kk">қылу</trans>
+                    <trans lang="nl">maken</trans>
+                    <trans lang="nl">creëren</trans>
+                    <trans lang="nl">produceren</trans>
+                    <trans lang="nl">fabriceren</trans>
+                    <trans lang="no">lage</trans>
+                    <trans lang="oc">far</trans>
+                    <trans lang="oc">faire</trans>
+                    <trans lang="fa">کردن</trans>
+                    <trans lang="pl">robić</trans>
+                    <trans lang="pt">fazer</trans>
+                    <trans lang="ro">face</trans>
+                    <trans lang="ro">produce</trans>
+                    <trans lang="ru">делать</trans>
+                    <trans lang="se">bargat</trans>
+                    <trans lang="se">dahkat</trans>
+                    <trans lang="sa">करोति</trans>
+                    <trans lang="zdj">-umɓa</trans>
+                    <trans lang="zdj">-fua</trans>
+                    <trans lang="sv">göra</trans>
+                    <trans lang="tr">yapmak</trans>
+                    <trans lang="tr">etmek</trans>
+                    <trans lang="uk">робити</trans>
+                    <trans lang="cu">дѣлати</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="fi">tehdä</trans>
+                    <trans lang="fi">valmistaa</trans>
+                    <trans lang="kk">әзірлеу</trans>
+                    <trans lang="kk">пісіру</trans>
+                    <trans lang="kk">дайындау</trans>
+                    <trans lang="nl">klaarmaken</trans>
+                    <trans lang="nl">bereiden</trans>
+                    <trans lang="nl">koken</trans>
+                    <trans lang="en">carry out</trans>
+                    <trans lang="nl">maken</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="en">make</trans>
+                    <trans lang="en">take</trans>
+                    <trans lang="en">do</trans>
+                    <trans lang="en">work</trans>
+                    <trans lang="swb">utsimidza</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="nl">maken</trans>
+                    <trans lang="nl">uitvoeren</trans>
+                    <trans lang="tr">etmek</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="nl">maken</trans>
+                    <trans lang="en">do</trans>
+                    <trans lang="nl">uitvoeren</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="nl">maken</trans>
+                    <trans lang="zdj">utsonga</trans>
+                    <trans lang="zdj">-tsongeza</trans>
+                    <trans lang="en">is</trans>
+                    <trans lang="ca">fer</trans>
+                    <trans lang="es">hacer</trans>
+                    <trans lang="nl">zijn</trans>
+                    <trans lang="oc">far</trans>
+                    <trans lang="pl">jest</trans>
+                    <trans lang="de">geschehen</trans>
+                    <trans lang="de">eintreten</trans>
+                    <trans lang="de">passieren</trans>
+                    <trans lang="en">happen</trans>
+                    <trans lang="nl">gebeuren</trans>
+                    <trans lang="nl">zijn</trans>
+                    <trans lang="zdj">-renɗeha</trans>
+                    <trans lang="en">play</trans>
+                    <trans lang="es">practicar</trans>
+                    <trans lang="nl">doen</trans>
+                    <trans lang="nl">beoefenen</trans>
+                    <trans lang="pl">uprawiać</trans>
+                    <trans lang="cs">dělat</trans>
+                </translations>
+            </pos>
+            <pos type="nom" lemma="1" locution="0" gender="m" number="s">
+                <pronunciations>
+                    <pron>fɛʁ</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="faire" gracePOS="Ncms" prons="fɛʁ"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Action de faire, <innerLink ref="action">action</innerLink>.
+                            </xml>
+                            <txt>Action de faire, action.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>La pédagogie, entre le dire et le <b>faire</b>.
+                                </i>
+                            </xml>
+                            <txt>La pédagogie, entre le dire et le faire.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>La fable joue de la distinction entre le <b>faire</b> et le paraître.
+                                </i>
+                            </xml>
+                            <txt>La fable joue de la distinction entre le faire et le paraître.</txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <translations/>
+            </pos>
+            <section type="homophones">
+                <item>fer</item>
+                <item>ferre</item>
+                <item>ferrent</item>
+                <item>ferres</item>
+            </section>
+            <section type="anagrammes">
+                <item>féria</item>
+                <item>ferai</item>
+                <item>fraie</item>
+            </section>
+        </text>
+    </article>
+</glawi>

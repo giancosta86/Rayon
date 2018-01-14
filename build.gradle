@@ -1,0 +1,106 @@
+/*^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+*/
+
+buildscript {
+    repositories {
+        maven {
+            url 'https://dl.bintray.com/giancosta86/Hephaestus'
+        }
+
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'info.gianlucacosta.moonlicense:moonlicense-gradle:5.0'
+        classpath 'info.gianlucacosta.aurora:aurora:9.1'
+
+        classpath 'org.junit.platform:junit-platform-gradle-plugin:1.0.2'
+
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
+    }
+}
+
+
+apply plugin: 'java'
+apply plugin: 'maven'
+apply plugin: 'org.junit.platform.gradle.plugin'
+
+apply plugin: 'info.gianlucacosta.moonlicense'
+apply plugin: 'info.gianlucacosta.aurora'
+
+
+
+group 'info.gianlucacosta.rayon'
+archivesBaseName = "rayon"
+version '1.0'
+
+
+sourceCompatibility = 1.8
+
+
+description = "Java library for French linguistics"
+
+
+dependencies {
+    testCompile 'org.junit.jupiter:junit-jupiter-api:5.0.2'
+    testCompile 'org.hamcrest:java-hamcrest:2.0.0.0'
+    testCompile 'org.apiguardian:apiguardian-api:1.0.0'
+
+    testRuntime("org.junit.jupiter:junit-jupiter-engine:5.0.2")
+}
+
+
+moonLicense {
+    license = apache2
+
+    productInfo {
+        productName = 'Rayon'
+        inceptionYear = 2018
+        copyrightHolder = 'Gianluca Costa'
+    }
+}
+
+
+aurora {
+    gitHubUser = 'giancosta86'
+
+    author {
+        name = 'Gianluca Costa'
+        email = 'gianluca@gianlucacosta.info'
+        url = 'http://gianlucacosta.info/'
+    }
+
+    bintray {
+        repo = 'Hephaestus'
+        licenses = ['Apache-2.0']
+
+        labels = [
+                'French',
+                'linguistics',
+                'lexicon',
+                'parser',
+                'Glawi',
+                'analysis',
+                'statistics',
+                'Java',
+                'library'
+        ]
+    }
+}

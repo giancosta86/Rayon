@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>banal</title>
+        <pageId>36358</pageId>
+        <meta>
+            <category>Mots autologiques en français</category>
+            <import>DAF8</import>
+            <reference>Littré</reference>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">ba.nal</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml><cf value="ban|-al|" lang="fr"/>.
+                    </xml>
+                    <txt>voir ban, -al et .</txt>
+                </etym>
+            </etymology>
+            <pos type="adjectif" lemma="1" locution="0" homoNb="1" gender="m" number="s">
+                <pronunciations>
+                    <pron>ba.nal</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="banal" gracePOS="Afpms" prons="ba.nal"/>
+                    <inflection form="banaux" gracePOS="Afpmp" prons="ba.no"/>
+                    <inflection form="banale" gracePOS="Afpfs" prons="ba.nal"/>
+                    <inflection form="banales" gracePOS="Afpfp" prons="ba.nal"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Se disait au <innerLink ref="Moyen Âge">Moyen Âge</innerLink> des choses appartenant à
+                                un <innerLink ref="seigneur">seigneur</innerLink>, et dont les <innerLink ref="paysan">
+                                    paysan</innerLink>s se servaient en échange d'une <innerLink ref="redevance">
+                                    redevance</innerLink>.
+                            </xml>
+                            <txt>Se disait au Moyen Âge des choses appartenant à un seigneur, et dont les paysans se
+                                servaient en échange d'une redevance.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Four <b>banal</b>, moulins <b>banaux</b>.
+                                </i>
+                            </xml>
+                            <txt>Four banal, moulins banaux.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="domain" value="droit"/>
+                            </labels>
+                            <xml><innerLink ref="commun">Commun</innerLink>, en parlant de <innerLink ref="bien">
+                                bien</innerLink>s dont le <innerLink ref="public">public</innerLink> a la <innerLink
+                                    ref="jouissance">jouissance</innerLink>.
+                            </xml>
+                            <txt>Commun, en parlant de biens dont le public a la jouissance.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Arbitrage <b>banal</b>.
+                                </i>
+                            </xml>
+                            <txt>Arbitrage banal.</txt>
+                        </example>
+                    </definition>
+                </definitions>
+            </pos>
+            <pos type="adjectif" lemma="1" locution="0" homoNb="2" gender="m" number="s">
+                <pronunciations>
+                    <pron>ba.nal</pron>
+                </pronunciations>
+                <paradigm>
+                    <inflection form="banal" gracePOS="Afpms" prons="ba.nal"/>
+                    <inflection form="banals" gracePOS="Afpmp" prons="ba.nal"/>
+                    <inflection form="banale" gracePOS="Afpfs" prons="ba.nal"/>
+                    <inflection form="banales" gracePOS="Afpfp" prons="ba.nal"/>
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="figuré"/>
+                            </labels>
+                            <xml>Qui se met à la <innerLink ref="disposition">disposition</innerLink> de tout le monde.
+                            </xml>
+                            <txt>Qui se met à la disposition de tout le monde.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Cœur <b>banal</b>, générosité <b>banale</b>, amitié <b>banale</b>.
+                                </i>
+                            </xml>
+                            <txt>Cœur banal, générosité banale, amitié banale.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="commun">Commun</innerLink>, très <innerLink ref="employé">
+                                employé</innerLink>, <innerLink ref="trivial">trivial</innerLink>, <innerLink
+                                    ref="ordinaire">ordinaire</innerLink>.
+                            </xml>
+                            <txt>Commun, très employé, trivial, ordinaire.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>Quelque citation latine <b>banale</b> de ci, de là, un aphorisme philosophique ou
+                                    pédagogique, une ironie forcée mais acerbe, rehaussent son prestige.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>Quelque citation latine banale de ci, de là, un aphorisme philosophique ou pédagogique,
+                                une ironie forcée mais acerbe, rehaussent son prestige. }}
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cette expression est <b>banale</b>.
+                                </i>
+                            </xml>
+                            <txt>Cette expression est banale.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Louanges <b>banales</b>. Des compliments <b>banals</b>.
+                                </i>
+                            </xml>
+                            <txt>Louanges banales. Des compliments banals.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>On lui a fait un compliment <b>banal</b>.
+                                </i>
+                            </xml>
+                            <txt>On lui a fait un compliment banal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Se servir d'un prétexte <b>banal</b>.
+                                </i>
+                            </xml>
+                            <txt>Se servir d'un prétexte banal.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Il faut traduire ce qui est normal, la façon normale <b>banale</b> de parler dans une
+                                    langue, dans ce qui est non moins <b>banal</b> et normal dans l'autre langue, même
+                                    si dans cette autre langue, c'est très différent du mot à mot.
+                                </i>
+                            </xml>
+                            <txt>Il faut traduire ce qui est normal, la façon normale banale de parler dans une langue,
+                                dans ce qui est non moins banal et normal dans l'autre langue, même si dans cette autre
+                                langue, c'est très différent du mot à mot.
+                            </txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">bateau</item>
+                    <item type="synonym">cliché</item>
+                    <item type="synonym">effacé</item>
+                    <item type="synonym">facile</item>
+                    <item type="synonym">inintéressant</item>
+                    <item type="synonym">insignifiant</item>
+                    <item type="synonym">médiocre</item>
+                    <item type="synonym">prosaïque</item>
+                    <item type="synonym">trivial</item>
+                    <item type="synonym">vulgaire</item>
+                    <item type="antonym">curieux</item>
+                    <item type="antonym">distingué</item>
+                    <item type="antonym">extraordinaire</item>
+                    <item type="antonym">illustre</item>
+                    <item type="antonym">insolite</item>
+                    <item type="antonym">original</item>
+                    <item type="antonym">remarquable</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="derivative">banalement</item>
+                    <item type="derivative">banalisation</item>
+                    <item type="derivative">banaliser</item>
+                    <item type="derivative">banalité</item>
+                    <item type="derivative">débanaliser</item>
+                </subsection>
+                <translations>
+                    <trans lang="af">alledaags</trans>
+                    <trans lang="af">banaal</trans>
+                    <trans lang="de">abgedroschen</trans>
+                    <trans lang="de">alltägich</trans>
+                    <trans lang="de">banal</trans>
+                    <trans lang="de">fade</trans>
+                    <trans lang="de">fad</trans>
+                    <trans lang="en">banal</trans>
+                    <trans lang="en">commonplace</trans>
+                    <trans lang="en">everyday</trans>
+                    <trans lang="en">hackneyed</trans>
+                    <trans lang="ca">banal</trans>
+                    <trans lang="ko">하찮다</trans>
+                    <trans lang="ko">시시하다</trans>
+                    <trans lang="ko">통속적</trans>
+                    <trans lang="es">banal</trans>
+                    <trans lang="es">trivial</trans>
+                    <trans lang="eo">banala</trans>
+                    <trans lang="et">banaalne</trans>
+                    <trans lang="et">triviaalne</trans>
+                    <trans lang="et">labane</trans>
+                    <trans lang="fi">lattea</trans>
+                    <trans lang="fi">banaali</trans>
+                    <trans lang="fy">deisk</trans>
+                    <trans lang="fy">sljochtweihinne</trans>
+                    <trans lang="fy">plat</trans>
+                    <trans lang="hu">banális</trans>
+                    <trans lang="hu">közönséges</trans>
+                    <trans lang="io">triviala</trans>
+                    <trans lang="io">vulgara</trans>
+                    <trans lang="io">vulgaracha</trans>
+                    <trans lang="ia">banal</trans>
+                    <trans lang="it">banale</trans>
+                    <trans lang="it">allenare</trans>
+                    <trans lang="la">abiectus</trans>
+                    <trans lang="nl">banaal</trans>
+                    <trans lang="nl">afgezaagd</trans>
+                    <trans lang="nl">alledaags</trans>
+                    <trans lang="nl">gewoontjes</trans>
+                    <trans lang="nl">nietszeggend</trans>
+                    <trans lang="nl">plat</trans>
+                    <trans lang="no">banal</trans>
+                    <trans lang="pl">banalny</trans>
+                    <trans lang="pt">banal</trans>
+                    <trans lang="pt">comun</trans>
+                    <trans lang="pt">insignificante</trans>
+                    <trans lang="pt">trivial</trans>
+                    <trans lang="pt">vulgar</trans>
+                    <trans lang="se">beaivválaš</trans>
+                    <trans lang="se">dábálaš</trans>
+                    <trans lang="sv">banal</trans>
+                    <trans lang="cs">banální</trans>
+                    <trans lang="cs">všední</trans>
+                    <trans lang="cs">obecný</trans>
+                    <trans lang="tr">bayağı</trans>
+                    <trans lang="vi">sáo</trans>
+                </translations>
+            </pos>
+            <section type="anagrammes">
+                <item>Alban</item>
+                <item>Balan</item>
+                <item>nabla</item>
+            </section>
+        </text>
+    </article>
+</glawi>

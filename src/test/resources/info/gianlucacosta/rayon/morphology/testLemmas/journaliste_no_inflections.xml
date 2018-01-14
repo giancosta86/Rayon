@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>journaliste</title>
+        <pageId>2148</pageId>
+        <meta>
+            <reference>DAF8</reference>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">ʒuʁ.na.list</pron>
+                <pron>ʒuʁ.na.list</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <labels>
+                        <label type="diachronic" value="1684"/>
+                    </labels>
+                    <xml>
+                        <date>1684</date>
+                        dérivé de
+                        <i>
+                            <innerLink ref="journal">journal</innerLink>
+                        </i>
+                        avec le suffixe
+                        <i>
+                            <innerLink ref="-iste">-iste</innerLink>
+                        </i>
+                        .
+                    </xml>
+                    <txt>dérivé de journal avec le suffixe -iste.</txt>
+                </etym>
+            </etymology>
+            <pos type="nom" lemma="1" locution="0" gender="e" number="s">
+                <pronunciations>
+                    <pron>ʒuʁ.na.list</pron>
+                </pronunciations>
+                <paradigm>
+
+                </paradigm>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml>Celui, celle qui <innerLink ref="faire">fait</innerLink>, qui <innerLink ref="rédiger">
+                                rédige
+                            </innerLink> un journal, qui <innerLink ref="travailler">travaille</innerLink>,
+                                comme <innerLink ref="rédacteur">rédacteur</innerLink>, à un journal.
+                            </xml>
+                            <txt>Celui, celle qui fait, qui rédige un journal, qui travaille, comme rédacteur, à un
+                                journal.
+                            </txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>J'accomplis pourtant ma besogne, ce jour-là. Triste besogne de <b>journaliste</b>,
+                                    besogne sans conviction, mal payée et bien faite pour vous guérir à tout jamais de
+                                    l'ambition d'écrire dans les journaux.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>J'accomplis pourtant ma besogne, ce jour-là. Triste besogne de journaliste, besogne
+                                sans conviction, mal payée et bien faite pour vous guérir à tout jamais de l'ambition
+                                d'écrire dans les journaux. }}
+                            </txt>
+                        </example>
+                        <example>
+                            <xml><i>Depuis les Hervieu, les Bernstein, les Marguerite</i>[sic:|(Paul) Margueritte]<i>,
+                                les Paul Adam, les Pierre Louys</i>[sic:|Louÿs]
+                                <i>et leur séquelle de <b>journalistes</b> caudataires, prêchèrent l'émancipation
+                                    sexuelle, le bris des tenailles et le culte d'Aphrodite.
+                                </i>
+                            </xml>
+                            <txt>Depuis les Hervieu, les Bernstein, les Marguerite [sic:|(Paul) Margueritte], les Paul
+                                Adam, les Pierre Louys [sic:|Louÿs] et leur séquelle de journalistes caudataires,
+                                prêchèrent l'émancipation sexuelle, le bris des tenailles et le culte d'Aphrodite.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml><i>Il se trouvait ainsi au centre des opérations, à deux pas de la Bourse et des
+                                boulevards.</i>[…]
+                                <i>Hommes d'affaires, boursicotiers, <b>journalistes</b>, policiers, guitaristes,
+                                    évoluent dans ces parages
+                                </i>
+                                […]
+                            </xml>
+                            <txt>Il se trouvait ainsi au centre des opérations, à deux pas de la Bourse et des
+                                boulevards. […] Hommes d'affaires, boursicotiers, journalistes, policiers, guitaristes,
+                                évoluent dans ces parages […]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Cet incident tapageur fit du bruit, comme il était normal, dans le Landerneau
+                                    languedocien. Phénomène bien connu : quand les murs résonnent, les <b>journalistes
+                                    </b> ne raisonnent plus.
+                                </i>
+                            </xml>
+                            <txt>Cet incident tapageur fit du bruit, comme il était normal, dans le Landerneau
+                                languedocien. Phénomène bien connu : quand les murs résonnent, les journalistes ne
+                                raisonnent plus.
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Une immense joie s'empare de toute l'Italie, alimentée par les reportages
+                                    dithyrambiques des <b>journalistes</b> embeded
+                                </i>
+                                [sic:|embedded]<i>, comme on dirait aujourd'hui. La presse chante la victoire de la
+                                civilisation européenne sur l'obscurantisme des musulmans</i>[…]
+                            </xml>
+                            <txt>Une immense joie s'empare de toute l'Italie, alimentée par les reportages
+                                dithyrambiques des journalistes embeded [sic:|embedded], comme on dirait aujourd'hui. La
+                                presse chante la victoire de la civilisation européenne sur l'obscurantisme des
+                                musulmans […]
+                            </txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Au Mexique, les assassinats de <b>journalistes</b> sont systématiques. Plus d'une
+                                    centaine y ont disparu ou trouvé la mort depuis 2000.
+                                </i>
+                            </xml>
+                            <txt>Au Mexique, les assassinats de journalistes sont systématiques. Plus d'une centaine y
+                                ont disparu ou trouvé la mort depuis 2000.
+                            </txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="sem" value="par extension"/>
+                            </labels>
+                            <xml>Celui, celle qui <innerLink ref="participer">participe</innerLink> à la <innerLink
+                                    ref="rédaction">rédaction
+                            </innerLink> des <innerLink ref="information">information</innerLink>s <innerLink
+                                    ref="diffusée">diffusée</innerLink>s par les
+                                <innerLink ref="média">média
+                                </innerLink>
+                                <innerLink ref="audio-visuel">audio-visuel</innerLink>s.
+                            </xml>
+                            <txt>Celui, celle qui participe à la rédaction des informations diffusées par les média
+                                audio-visuels.
+                            </txt>
+                        </gloss>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">journaleux</item>
+                    <item type="hyponym">correspondant</item>
+                    <item type="hyponym">créateur d'images</item>
+                    <item type="hyponym">critique</item>
+                    <item type="hyponym">éditorialiste</item>
+                    <item type="hyponym">feuilletoniste</item>
+                    <item type="hyponym">modérateur</item>
+                    <item type="hyponym">reporter</item>
+                    <item type="hyponym">vidéojournaliste</item>
+                    <item type="hyponym">échotier</item>
+                    <item type="hyponym">pigiste</item>
+                    <item type="hyponym">rubriquard</item>
+                    <item type="hyponym">faits-diversier</item>
+                    <item type="hyponym">localier</item>
+                </subsection>
+                <subsection type="morpho">
+                    <item type="related">journalisme</item>
+                </subsection>
+                <translations>
+                    <trans lang="af">joernalis</trans>
+                    <trans lang="sq">gazetar</trans>
+                    <trans lang="de">Journalist</trans>
+                    <trans lang="en">journalist</trans>
+                    <trans lang="en">female journalist</trans>
+                    <trans lang="en">reporter</trans>
+                    <trans lang="ar">مراسل</trans>
+                    <trans lang="hy">լրագրող</trans>
+                    <trans lang="ast">periodista</trans>
+                    <trans lang="az">jurnalist</trans>
+                    <trans lang="eu">kazetari</trans>
+                    <trans lang="be">журналіст</trans>
+                    <trans lang="br">kazetenner</trans>
+                    <trans lang="bg">журналист</trans>
+                    <trans lang="ca">periodista</trans>
+                    <trans lang="zh">记者</trans>
+                    <trans lang="ko">기자</trans>
+                    <trans lang="co">ghjurnalistu</trans>
+                    <trans lang="hr">novinar</trans>
+                    <trans lang="da">journalist</trans>
+                    <trans lang="es">periodista</trans>
+                    <trans lang="eo">gazetisto</trans>
+                    <trans lang="eo">gazetistino</trans>
+                    <trans lang="eo">ĵurnalisto</trans>
+                    <trans lang="eo">ĵurnalistino</trans>
+                    <trans lang="et">žurnalist</trans>
+                    <trans lang="et">ajakirjanik</trans>
+                    <trans lang="fo">blaðmaður</trans>
+                    <trans lang="fy">kranteman</trans>
+                    <trans lang="gl">xornalista</trans>
+                    <trans lang="cy">newyddiadurwr</trans>
+                    <trans lang="ka">ჟურნალისტი</trans>
+                    <trans lang="el">δημοσιογράφος</trans>
+                    <trans lang="he">עתונאי</trans>
+                    <trans lang="hu">újságíró</trans>
+                    <trans lang="io">jurnalisto</trans>
+                    <trans lang="id">wartawan</trans>
+                    <trans lang="id">jurnalis</trans>
+                    <trans lang="is">blaðamaður</trans>
+                    <trans lang="it">giornalista</trans>
+                    <trans lang="ja">ジャーナリスト</trans>
+                    <trans lang="la">diurnarius</trans>
+                    <trans lang="lv">žurnālists</trans>
+                    <trans lang="lt">žurnalistas</trans>
+                    <trans lang="ms">wartawan</trans>
+                    <trans lang="nl">journalist</trans>
+                    <trans lang="nl">dagbladschrijver</trans>
+                    <trans lang="nl">dagbladschrijfster</trans>
+                    <trans lang="nl">journaliste</trans>
+                    <trans lang="no">journalist</trans>
+                    <trans lang="no_nn">journalist</trans>
+                    <trans lang="oc">jornalista</trans>
+                    <trans lang="pap">periodista</trans>
+                    <trans lang="pl">dziennikarz</trans>
+                    <trans lang="pt">jornalista</trans>
+                    <trans lang="ro">ziarist</trans>
+                    <trans lang="ro">ziaristă</trans>
+                    <trans lang="ru">журналист</trans>
+                    <trans lang="sr">журналист</trans>
+                    <trans lang="sk">novinar</trans>
+                    <trans lang="sl">novinar</trans>
+                    <trans lang="sv">journalist</trans>
+                    <trans lang="sv">publicist</trans>
+                    <trans lang="sv">tidningsman</trans>
+                    <trans lang="ta">பத்திரிகை ஆசிரியர்</trans>
+                    <trans lang="cs">novinář</trans>
+                    <trans lang="th">นักข่าว</trans>
+                    <trans lang="tr">gazeteci</trans>
+                    <trans lang="uk">журналіст</trans>
+                    <trans lang="vi">nhà báo</trans>
+                    <trans lang="vi">ký giả</trans>
+                    <trans lang="wa">gaztî</trans>
+                </translations>
+            </pos>
+        </text>
+    </article>
+</glawi>

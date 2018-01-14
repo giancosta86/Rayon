@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--^
+  ===========================================================================
+  Rayon
+  ===========================================================================
+  Copyright (C) 2018 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<glawi lang="fr" dateDump="2015-12-26" endParsingDate="2016-05-18_15:47:02">
+    <article>
+        <title>parmi</title>
+        <pageId>170385</pageId>
+        <meta>
+            <import>DAF8</import>
+        </meta>
+        <text>
+            <pronunciations>
+                <pron area="France">paʁ.mi</pron>
+                <pron>paʁ.mi</pron>
+            </pronunciations>
+            <etymology>
+                <etym>
+                    <xml>
+                        <innerLink ref="par">par</innerLink>
+                        le <innerLink ref="milieu">milieu</innerLink> de, <i>par + mi</i> (de milieu donc).
+                    </xml>
+                    <txt>par le milieu de, par + mi (de milieu donc).</txt>
+                </etym>
+            </etymology>
+            <pos type="préposition" lemma="1" locution="0">
+                <pronunciations>
+                    <pron>paʁ.mi</pron>
+                </pronunciations>
+                <definitions>
+                    <definition>
+                        <gloss>
+                            <xml><innerLink ref="au milieu de">Au milieu de</innerLink>. -
+                            </xml>
+                            <txt>Au milieu de. -</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>On trouve de tout <b>parmi</b> les honnêtes gens.
+                                </i>
+                            </xml>
+                            <txt>On trouve de tout parmi les honnêtes gens.</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>J'ai trouvé un papier <b>parmi</b> mes livres. - <b>Parmi</b> la foule.
+                                </i>
+                            </xml>
+                            <txt>J'ai trouvé un papier parmi mes livres. - Parmi la foule.</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <labels>
+                                <label type="attitudinal" value="littéraire"/>
+                            </labels>
+                            <xml><innerLink ref="dans">Dans</innerLink>, <innerLink ref="sur">sur</innerLink>. -
+                            </xml>
+                            <txt>Dans, sur. -</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>La sonnerie du dîner a retenti <b>parmi</b> l'hôtel.
+                                </i>
+                                }}
+                            </xml>
+                            <txt>La sonnerie du dîner a retenti parmi l'hôtel. }}</txt>
+                        </example>
+                    </definition>
+                    <definition>
+                        <gloss>
+                            <xml>Entre tous ces.</xml>
+                            <txt>Entre tous ces.</txt>
+                        </gloss>
+                        <example>
+                            <xml>
+                                <i>
+                                    <b>Parmi</b>
+                                    ces tableaux, lequel préférez-vous ?
+                                </i>
+                            </xml>
+                            <txt>Parmi ces tableaux, lequel préférez-vous ?</txt>
+                        </example>
+                        <example>
+                            <xml>
+                                <i>Quelques traditions sont préservées, <b>parmi</b> elles...
+                                </i>
+                            </xml>
+                            <txt>Quelques traditions sont préservées, parmi elles...</txt>
+                        </example>
+                    </definition>
+                </definitions>
+                <subsection type="semRel">
+                    <item type="synonym">emmi</item>
+                </subsection>
+                <translations>
+                    <trans lang="de">unter</trans>
+                    <trans lang="de">zwischen</trans>
+                    <trans lang="de">darunter</trans>
+                    <trans lang="fro">parmy</trans>
+                    <trans lang="en">among</trans>
+                    <trans lang="en">amongst</trans>
+                    <trans lang="br">e-mesk</trans>
+                    <trans lang="br">e-metoù</trans>
+                    <trans lang="br">e-touesk</trans>
+                    <trans lang="br">e-touez</trans>
+                    <trans lang="bg">между</trans>
+                    <trans lang="ko">사이</trans>
+                    <trans lang="es">en medio de</trans>
+                    <trans lang="es">entre</trans>
+                    <trans lang="hbo">ב</trans>
+                    <trans lang="it">dentro</trans>
+                    <trans lang="rw">mu</trans>
+                    <trans lang="ln">káti</trans>
+                    <trans lang="nl">tussen</trans>
+                    <trans lang="nl">onder</trans>
+                    <trans lang="oc">entremièg</trans>
+                    <trans lang="oc">demest</trans>
+                    <trans lang="pt">dentro de</trans>
+                    <trans lang="ru">среди</trans>
+                    <trans lang="ru">между</trans>
+                    <trans lang="se">gaskkas</trans>
+                    <trans lang="sv">bland</trans>
+                    <trans lang="cu">въ</trans>
+                    <trans lang="de">unter</trans>
+                    <trans lang="en">among</trans>
+                    <trans lang="es">entre</trans>
+                    <trans lang="pl">pośród</trans>
+                    <trans lang="zdj">harumwa</trans>
+                </translations>
+            </pos>
+        </text>
+    </article>
+</glawi>
